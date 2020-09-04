@@ -14,6 +14,7 @@ Software required
 
   - NX -> LUCY
   - File transfer software (any of the below will do, you might already have one or an alternative installed)
+  
         - [Filezilla](https://filezilla-project.org/)
         - [cyberduck](https://cyberduck.io/)
   - R. -> Kevin 
