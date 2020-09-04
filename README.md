@@ -20,7 +20,7 @@ Software required
   - atom  -> Charlie 
 
   - **Mac users**
-    - XCode
+    - XCode: Install Xcode developer tools via the Apple App Store
   - **Windows users**
     - windows for linux
     
