@@ -19,7 +19,7 @@ You will need to have a few different software packages installed on your comput
     - R. -> Kevin 
     - Rstudio -> Lucy 
     - rsync
-    - [Atom](https://atom.io/) - see [here](https://github.com/OBDS-Training/OBDS_Overview/blob/master/Atom_install_instructions.md) for install instructions
+    - [Atom](https://atom.io/) - see install instructions [here](https://github.com/OBDS-Training/OBDS_Overview/blob/master/Atom_install_instructions.md)
 
   - **Mac users**
     - XCode: Go to Apple App Store and Install Xcode developer tools 
