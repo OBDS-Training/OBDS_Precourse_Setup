@@ -24,7 +24,7 @@ Software required
   - **Windows users**
     - windows for linux
     
-Links to things we will use in the course 
+## Links to things we will use in the course 
 
 - Rstudio server
 - OBDS github repo overview
@@ -33,5 +33,5 @@ Links to things we will use in the course
 - [conda installation workshop](https://github.com/OBDS-Training/Conda_Workshops/blob/master/1_Conda_intro.md)
 
 
-Course overview 
+## Course overview 
 - link to course timetable
