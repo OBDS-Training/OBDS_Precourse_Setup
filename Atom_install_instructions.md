@@ -34,14 +34,10 @@ We like [Atom](https://atom.io/) as it is simple to get started with and it also
 
 - now we should have a fully functioning version of Atom, we can now add additional packages to make our lives easier for working on code on the server. There are loads of packages that you could add on to your Atom program, but these below are particularly useful to have installed and we will go through in more detail on the course. 
 
-- [ftp-remote-edit](https://atom.io/packages/ftp-remote-edit) 
-    - this is a package that allows you to read and write to files on a remote server, we will use it to read and write code files on the cgat server
-- [Tree-view](https://atom.io/packages/tree-view)
-    - allows you to easily explore files in a browser pane
-- [platformio-IDE-terminal](https://atom.io/packages/platformio-ide-terminal)
-    - allows you to run a terminal from Atom - we will use this to log onto the server and run our code ins
-- [teletype](https://atom.io/packages/teletype)
-    - allows you to collaborate in real time on the same document with other users
+- [ftp-remote-edit](https://atom.io/packages/ftp-remote-edit): This is a package that allows you to read and write to files on a remote server, we will use it to read and write code files on the cgat server
+- [Tree-view](https://atom.io/packages/tree-view): Allows you to easily explore files in a browser pane
+- [platformio-IDE-terminal](https://atom.io/packages/platformio-ide-terminal): Allows you to run a terminal from Atom - we will use this to log onto the server and run our code ins
+- [teletype](https://atom.io/packages/teletype): Allows you to collaborate in real time on the same document with other users
 
 1) To install the above packages navigate to the Atom settings pane (If your not already in it in Windows go to `File/Settings` or Mac `Atom/Preferences` 
 2) On the left of the settings window click the `+ install` tab.
