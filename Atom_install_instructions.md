@@ -9,7 +9,7 @@ Basic text is important as it allows us to write files that can be easily interp
 
 ## 2) Why did we choose Atom 
 
-There are many different text editors available and many people have their own personal favourite that they tend to use. For example you might have come across emacs, vim, sublime text, nedit, gedit or nano. It's very much a matter of personal preference as to which one you choose, some are very basic and easy to use like nano or gedit, whilst others like emacs and vim have their own particular syntax that you need to learn but also have the benefit of being really customisable and have lots of additional functionality that can make writing code faster once you get to grips with them. 
+There are many different text editors available and many people have their own personal favourite that they tend to use. For example you might have come across `emacs`, `vim`, `sublime text`, `nedit`, `gedit` or `nano`. It's very much a matter of personal preference as to which one you choose, some are very basic and easy to use like `nano` or `gedit`, whilst others like `emacs` and `vim` have their own particular syntax that you need to learn but also have the benefit of being really customisable and have lots of additional functionality that can make writing code faster once you get to grips with them. 
 
 
 We like [Atom](https://atom.io/) as it is simple to get started with and it also has a lot of nice add-on packages that make like a whole lot easier (e.g. it integrates with github excellently, you can edit files remotely on a server and you can run R and python code interactively in the same session etc.)
