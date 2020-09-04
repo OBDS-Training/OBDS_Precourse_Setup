@@ -17,7 +17,7 @@ Software required
   - R. -> Kevin 
   - Rstudio -> Lucy 
   - rsync
-  - atom 
+  - atom  -> Charlie 
 
   - **Mac users**
     - XCode
