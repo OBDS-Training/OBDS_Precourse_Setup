@@ -30,4 +30,8 @@ Links to things we will use in the course
 - OBDS github repo overview
 - OBDS githut repo for participants 
 - Link to course slides 
-- conda repo
+- [conda installation workshop](https://github.com/OBDS-Training/Conda_Workshops/blob/master/1_Conda_intro.md)
+
+
+Course overview 
+- link to course timetable
