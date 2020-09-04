@@ -2,7 +2,7 @@ This file explains how to install the text editor `Atom` and some add-on package
 
 ## 1) Text editors - what are they and why do we need them
 
-Text editors are computer programmes that allow you to write and edit very basic text files without all the fancy formatting that programmes like Microsoft Work and Excel add to a document. Microsoft Notepad is an example of a basic text editor you might have come across in your time even if you are new to programming. 
+Text editors are computer programmes that allow you to write and edit very basic text files without all the fancy formatting that programmes like Microsoft Work and Excel add to a document. Microsoft Notepad is an example of a basic text editor you might have come across even if you are new to programming. 
 
 Basic text is important as it allows us to write files that can be easily interpreted by the computer and executed as code to perform computational tasks. 
 
@@ -50,7 +50,7 @@ We like [Atom](https://atom.io/) as it is simple to get started with and it also
 5) click the install button for the correct package. Atom should take care of the installation of these add-ons but you might need to restart Atom after installing packages to get them to work properly.
 
 
-
+-------------------------
 This should be enough to enable us to get started on the course but if your interested in customising your Atom instance even further you can look and find other packages you might want to try out here: https://atom.io/packages. We will go through how to  use these add-ons and Atom itself in the course, so don't worry if it's all a bit confusing at this point. 
 
 Great! Hopefully the above will have gone well, however if there are any installation difficulties please let your OBDS trainers know and they can help you figure things out. 
