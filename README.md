@@ -10,7 +10,7 @@ You will need to have a few different software packages installed on your comput
     - CGAT server account
     - Github account
 
-Software required
+- Software required
 
     - NX -> LUCY
     - File transfer software (any of the below will do, you might already have one or an alternative installed)
@@ -24,7 +24,7 @@ Software required
   - **Mac users**
     - XCode: Go to Apple App Store and Install Xcode developer tools 
   - **Windows users**
-    - windows for linux
+    - windows for linux -> David 
     
 ## Links to things we will use in the course 
 
