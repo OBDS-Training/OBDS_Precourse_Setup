@@ -19,7 +19,7 @@ Software required
   - R. -> Kevin 
   - Rstudio -> Lucy 
   - rsync
-  - atom  -> Charlie 
+  - [Atom](https://atom.io/) - see [here](https://github.com/OBDS-Training/OBDS_Overview/blob/master/Atom_install_instructions.md) for install instructions
 
   - **Mac users**
     - XCode: Go to Apple App Store and Install Xcode developer tools 
