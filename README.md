@@ -12,14 +12,14 @@ You will need to have a few different software packages installed on your comput
 
 Software required
 
-  - NX -> LUCY
-  - File transfer software (any of the below will do, you might already have one or an alternative installed)
+    - NX -> LUCY
+    - File transfer software (any of the below will do, you might already have one or an alternative installed)
     - [Filezilla](https://filezilla-project.org/)
     - [cyberduck](https://cyberduck.io/)
-  - R. -> Kevin 
-  - Rstudio -> Lucy 
-  - rsync
-  - [Atom](https://atom.io/) - see [here](https://github.com/OBDS-Training/OBDS_Overview/blob/master/Atom_install_instructions.md) for install instructions
+    - R. -> Kevin 
+    - Rstudio -> Lucy 
+    - rsync
+    - [Atom](https://atom.io/) - see [here](https://github.com/OBDS-Training/OBDS_Overview/blob/master/Atom_install_instructions.md) for install instructions
 
   - **Mac users**
     - XCode: Go to Apple App Store and Install Xcode developer tools 
