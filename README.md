@@ -13,14 +13,16 @@ You will need to have a few different software packages installed on your comput
 Software required
 
   - NX -> LUCY
-  - Filezilla (If you already have file transfer software e.g. XXXXXXX then you do not need to install this
+  - File transfer software (any of the below will do, you might already have one or an alternative installed)
+        - [Filezilla](https://filezilla-project.org/)
+        - [cyberduck](https://cyberduck.io/)
   - R. -> Kevin 
   - Rstudio -> Lucy 
   - rsync
   - atom  -> Charlie 
 
   - **Mac users**
-    - XCode: Install Xcode developer tools via the Apple App Store
+    - XCode: Go to Apple App Store and Install Xcode developer tools 
   - **Windows users**
     - windows for linux
     
