@@ -2,20 +2,22 @@ This file explains how to install the text editor `Atom` and some add-on package
 
 ## 1) Text editors - what are they and why do we need them
 
-Text editors are computer programs that allow you to write and edit very basic text files without all the fancy formatting that programs like Microsoft Word and Excel add to a document. Microsoft Notepad is an example of a basic text editor you might have come across even if you are new to programming.
+Text editors are computer programs that allow you to write and edit simple text files without the additional text formatting that programs like [Microsoft Word](https://www.microsoft.com/en-gb/microsoft-365/word) and [Microsoft Excel](https://www.microsoft.com/en-gb/microsoft-365/excel) add to a document.
+For instance, [Microsoft Notepad](https://www.microsoft.com/en-us/p/notepad-for-windows-10/9nblggh4w20k) is an example of a basic text editor you might have come across on Microsoft Windows.
 
 Basic text is important as it allows us to write files that can be easily interpreted by the computer and executed as code to perform computational tasks.
+Text files are also much easier to share, as they do not require any proprietary program to open and edit them.
 
+## 2) Why we chose Atom
 
-## 2) Why did we choose Atom
+There are many different text editors available and many people have their own personal favourite that they tend to use.
+For example you might have come across [GNU Emacs](https://www.gnu.org/software/emacs/), [Vim](https://www.vim.org/), [Sublime Text](https://www.sublimetext.com/), [nedit](https://sourceforge.net/projects/nedit/), [gedit](https://wiki.gnome.org/Apps/Gedit), or [GNU nano](https://www.nano-editor.org/).
+It's very much a matter of personal preference as to which one you choose, some are very basic and easy to use like [GNU nano](https://www.nano-editor.org/) and [gedit](https://wiki.gnome.org/Apps/Gedit), whilst others like [GNU Emacs](https://www.gnu.org/software/emacs/) and [Vim](https://www.vim.org/) offer more advanced functionality which come at the cost of a steeper learning curve.
+For instance, some editors are customizable, with lots of additional functionality that can make writing code faster once you get to grips with their keyboard shortcuts and syntax.
 
-There are many different text editors available and many people have their own personal favourite that they tend to use. For example you might have come across `emacs`, `vim`, `sublime text`, `nedit`, `gedit` or `nano`. It's very much a matter of personal preference as to which one you choose, some are very basic and easy to use like `nano` or `gedit`, whilst others like `emacs` and `vim` have their own particular syntax that you need to learn but also have the benefit of being really customisable and have lots of additional functionality that can make writing code faster once you get to grips with them.
-
-
-We like [Atom](https://atom.io/) as it is simple to get started with and it also has a lot of nice add-on packages that make life a whole lot easier (e.g. it integrates with GitHub excellently, you can edit files remotely on a server and you can run R and python code interactively in the same session etc.)
+We like [Atom](https://atom.io/) as it is simple to get started with, while it also has a lot of nice add-on packages that make life a whole lot easier (e.g. it integrates with GitHub seamlessly, it can edit files remotely on a server, and it can run R and python code interactively in the same session).
 
 ## 3) Installing Atom on your own computer
-
 
 - You can find the full install instructions for atom [here](https://flight-manual.atom.io/getting-started/sections/installing-atom/) - basically go to (https://atom.io/) and click the download button.
 - **Note**: If you already have atom installed don't reinstall it - but consider updating it - see [here](https://flight-manual.atom.io/getting-started/sections/installing-atom/) for how to do this and look at the 'updating Atom' section
