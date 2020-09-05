@@ -17,7 +17,7 @@ You will need to have a few different software packages installed on your comput
         - [Filezilla](https://filezilla-project.org/)
         - [cyberduck](https://cyberduck.io/)
     - R. -> Kevin 
-    - [Rstudio](https://rstudio.com/products/rstudio/download/) 
+    - [RStudio](https://rstudio.com/products/rstudio/download/) 
     - rsync
     - [Atom](https://atom.io/) - see install instructions [here](https://github.com/OBDS-Training/OBDS_Overview/blob/master/Atom_install_instructions.md)
 
