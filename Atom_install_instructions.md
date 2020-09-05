@@ -1,6 +1,6 @@
 This file explains how to install the text editor `Atom` and some add-on packages to atom that will make your life easier.
 
-## 1) Text editors - what are they and why do we need them
+## 1) Text editors - what they are and why we need them
 
 Text editors are computer programs that allow you to write and edit simple text files without the additional text formatting that programs like [Microsoft Word](https://www.microsoft.com/en-gb/microsoft-365/word) and [Microsoft Excel](https://www.microsoft.com/en-gb/microsoft-365/excel) add to a document.
 For instance, [Microsoft Notepad](https://www.microsoft.com/en-us/p/notepad-for-windows-10/9nblggh4w20k) is an example of a basic text editor you might have come across on Microsoft Windows.
