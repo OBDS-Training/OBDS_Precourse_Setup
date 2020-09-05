@@ -31,7 +31,7 @@ That said, consider following the instruction in the [Updating Atom](https://fli
 Don't worry too much about this, but one thing we do want to set is the 'soft tab' option and 'tab length':
     1) Open Atom
     2) Get to the settings pane. It might immediately open as a tab in the editor window when you launch Atom, but if not you can open it by navigating the Atom meny to either `File/Settings` if you are using Windows or `Atom/Preferences` if you are using Mac.
-    3) In the Atom `Settings`pane, on the left handside there should be a tab called `Editor`. Click on the `Editor` Tab and scroll down to the `Soft Tabs` option
+    3) In the Atom `Settings` pane, on the left handside there should be a tab called `Editor`. Click on the `Editor` Tab and scroll down to the `Soft Tabs` option
     4) Click so `Soft Tabs` has a 'tick' next to the `Soft Tabs` option.
     5) Scroll down a couple of boxes further to `Tab length` and set this to `4` if it's not already.
        We do this because some programming languages do not like a mix of tabs and spaces when you are writing code.
@@ -40,20 +40,26 @@ Don't worry too much about this, but one thing we do want to set is the 'soft ta
 
 ## 5) Adding Packages to Atom to add functionality
 
-- Now we should have a fully functioning version of Atom, we can add additional packages to make our lives easier for working on code on the server. There are loads of packages that you could add on to your Atom program, but those below are particularly useful to have installed and we will go through in more detail on the course.
+- Now that we have a fully functioning version of Atom, we can add additional packages to make our lives easier for working on code on the server.
+  There are loads of packages that you could add on to your copy of the Atom program, but those below are particularly useful to have installed and we will go through in more detail on the course.
 
-    - [ftp-remote-edit](https://atom.io/packages/ftp-remote-edit): This is a package that allows you to read and write to files on a remote server, we will use it to read and write code files on the cgat server
-    - [platformio-IDE-terminal](https://atom.io/packages/platformio-ide-terminal): Allows you to run a terminal from Atom - we will use this to log onto the server and run our code in
-    - [teletype](https://atom.io/packages/teletype): Allows you to collaborate in real time on the same document with other users
+    - [ftp-remote-edit](https://atom.io/packages/ftp-remote-edit): This is a package that allows you to read and write files on a remote server.
+      We will use this package to read and write files on the CGAT server.
+    - [platformio-IDE-terminal](https://atom.io/packages/platformio-ide-terminal): This package allows you to run a terminal from Atom.
+      We will use this package to log onto the server and run our code in the terminal on the server.
+    - [teletype](https://atom.io/packages/teletype): Allows you to collaborate in real time on the same document with other users.
 
-1) To install the above packages navigate to the Atom settings pane (If your not already in it in Windows go to `File/Settings` or Mac `Atom/Preferences`)
-2) On the left of the settings window click the `+ install` tab.
-3) You should now be on the Install Packages Pane and see a search bar at the top.
-4) Type the names of the above packages in the search bar (e.g. `ftp-remote-edit`) the package should come up below (tip: copy and paste to make sure you get the right name, there are several very similarly named packages)
-5) Click the install button for the correct package. Atom should take care of the installation of these add-ons but you might need to restart Atom after installing packages to get them to work properly.
+1) To install the above packages navigate to the Atom settings pane, like we did above.
+2) On the left of the settings window click the `Install` tab.
+3) You should now be in a pane called `Install Packages` and see a search bar at the top.
+4) Type the names of the above packages in the search bar (e.g. `ftp-remote-edit`).
+   The package should be shortlisted below (tip: copy and paste to make sure you get the right name, there are several packages with very similarly names)
+5) Click the `Install` button for the correct package.
+   Atom should take care of the installation of these add-ons but you might need to restart Atom after installing packages to get them to work properly.
 
 
 -------------------------
-This should be enough to enable us to get started on the course but if your interested in customising your Atom instance even further you can look and find other packages you might want to try out here: https://atom.io/packages. We will go through how to use these add-ons and Atom itself in the course, so don't worry if it's all a bit confusing at this point.
+This should be enough to enable us to get started on the course but if you are interested in customising your Atom instance even further you can look and find other packages that you might want to try out here: <https://atom.io/packages>.
+We will go through how to use these add-ons and Atom itself during the course, so don't worry if it's all a bit confusing at this point.
 
 Great! Hopefully the above will have gone well, however if there are any installation difficulties please let your OBDS trainers know and they can help you figure things out.
