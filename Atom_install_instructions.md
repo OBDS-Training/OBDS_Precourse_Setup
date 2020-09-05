@@ -26,7 +26,7 @@ That said, consider following the instruction in the [Updating Atom](https://fli
 
 ## 4) Launching Atom and getting started
 
-- Once installed you should be able to open Atom like you would any other normal software on your computer (From the _Applications_ folder for Mac, from the _Start menu_ for Windows )
+- Once installed you should be able to open Atom like you would any other normal software on your computer (From the `Applications` folder for Mac, from the `Start menu` for Windows )
 - See Atom documentation for [getting started](https://flight-manual.atom.io/getting-started/sections/atom-basics/): This has a brief guide on [Changing the theme](https://flight-manual.atom.io/getting-started/sections/atom-basics/#changing-the-theme) settings to make the Atom window look pretty.
 Don't worry too much about this, but one thing we do want to set is the 'soft tab' option and 'tab length':
     1) Open Atom
