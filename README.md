@@ -12,7 +12,7 @@ You will need to have a few different software packages installed on your comput
 
 - Software required
   - **Everyone** 
-    - NX -> LUCY
+    - NX[https://www.nomachine.com/] - see install instructions here
     - File transfer software (any of the below will do, you might already have one or an alternative installed)
         - [Filezilla](https://filezilla-project.org/)
         - [cyberduck](https://cyberduck.io/)
