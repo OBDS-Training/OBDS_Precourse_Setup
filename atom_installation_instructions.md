@@ -1,6 +1,8 @@
-This file explains how to install the text editor `Atom` and some add-on packages to atom that will make your life easier.
+# Atom
 
-## 1) Text editors - what they are and why we need them
+This file explains how to install the text editor `Atom` and some add-on packages to atom that we will use during the course, and generally make life easier for daily bioinformatics work.
+
+## Text editors - what they are and why we need them
 
 Text editors are computer programs that allow you to write and edit simple text files without the additional text formatting that programs like [Microsoft Word](https://www.microsoft.com/en-gb/microsoft-365/word) and [Microsoft Excel](https://www.microsoft.com/en-gb/microsoft-365/excel) add to a document.
 For instance, [Microsoft Notepad](https://www.microsoft.com/en-us/p/notepad-for-windows-10/9nblggh4w20k) is an example of a basic text editor you might have come across on Microsoft Windows.
@@ -8,7 +10,7 @@ For instance, [Microsoft Notepad](https://www.microsoft.com/en-us/p/notepad-for-
 Basic text is important as it allows us to write files that can be easily interpreted by the computer and executed as code to perform computational tasks.
 Text files are also much easier to share, as they do not require any proprietary program to open and edit them.
 
-## 2) Why we chose Atom
+## Why we chose Atom
 
 There are many different text editors available and many people have their own personal favourite that they tend to use.
 For example you might have come across [GNU Emacs](https://www.gnu.org/software/emacs/), [Vim](https://www.vim.org/), [Sublime Text](https://www.sublimetext.com/), [nedit](https://sourceforge.net/projects/nedit/), [gedit](https://wiki.gnome.org/Apps/Gedit), or [GNU nano](https://www.nano-editor.org/).
@@ -17,14 +19,14 @@ For instance, some editors are customizable, with lots of additional functionali
 
 We like [Atom](https://atom.io/) as it is simple to get started with, while it also has a lot of nice add-on packages that make life a whole lot easier (e.g. it integrates with GitHub seamlessly, it can edit files remotely on a server, and it can run R and python code interactively in the same session).
 
-## 3) Installing Atom on your own computer
+## Installing Atom on your own computer
 
 - You can find the full install instructions in the [Installing Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/) section of the <https://atom.io/> website.
 
 **Note**: If you already have Atom installed, you don't need to reinstall it.
 That said, consider following the instruction in the [Updating Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/#updating-atom) section.
 
-## 4) Launching Atom and getting started
+## Launching Atom and getting started
 
 - Once installed you should be able to open Atom like you would any other normal software on your computer (From the `Applications` folder for Mac, from the `Start menu` for Windows )
 - See Atom documentation for [getting started](https://flight-manual.atom.io/getting-started/sections/atom-basics/): This has a brief guide on [Changing the theme](https://flight-manual.atom.io/getting-started/sections/atom-basics/#changing-the-theme) settings to make the Atom window look pretty.
@@ -38,7 +40,7 @@ Don't worry too much about this, but one thing we do want to set is the 'soft ta
        This option means that when you type the 'tab' key on your keyboard 4 space characters will be inserted rather then a tabulation character.
        This keeps things consistent in your script and will save you some debugging hassle later.
 
-## 5) Adding Packages to Atom to add functionality
+## Adding Packages to Atom to add functionality
 
 - Now that we have a fully functioning version of Atom, we can add additional packages to make our lives easier for working on code on the server.
   There are loads of packages that you could add on to your copy of the Atom program, but those below are particularly useful to have installed and we will go through in more detail on the course.
