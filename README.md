@@ -9,7 +9,7 @@ You might already have some of these things installed, so only install those tha
 
 - Accounts to setup:
     - CGAT server account
-    - [Github account](create_github_account)
+    - [Github account](create_github_account.md)
 
 - Software required
   - **Everyone**
