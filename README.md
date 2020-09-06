@@ -1,10 +1,11 @@
-# OBDS_Overview
+# Welcome to the OBDS_Overview repository
 
 This repository documents instructions and links to various materials for participants to the OBDS training programme, to set up their computer prior to the course.
 
 ## Pre-course setup instructions 
 
-You will need to have a few different software packages installed on your computer and user accounts set up, you might already have some of these things installed, so only install those that you know you don't. 
+You will need to have a few different software packages installed on your computer and user accounts set up.
+You might already have some of these things installed, so only install those that you know you do not have already. 
 
 - Accounts to setup: 
     - CGAT server account
@@ -12,7 +13,7 @@ You will need to have a few different software packages installed on your comput
 
 - Software required
   - **Everyone** 
-    - [NX](https://www.nomachine.com/) - see install instructions [here](https://github.com/OBDS-Training/OBDS_Overview/blob/master/NoMachine%20setup.pdf)
+    - [NX NoMachine](https://www.nomachine.com/) - see install instructions [here](https://github.com/OBDS-Training/OBDS_Overview/blob/master/NoMachine%20setup.pdf)
     - File transfer software (any of the below will do, you might already have one or an alternative installed)
         - [Filezilla](https://filezilla-project.org/)
         - [cyberduck](https://cyberduck.io/)
@@ -26,14 +27,15 @@ You will need to have a few different software packages installed on your comput
   - **Windows users**
     - windows for linux -> David 
     
-## Links to things we will use in the course 
+## Links to resources used during the course 
 
-- Rstudio server
-- OBDS github repo overview
-- OBDS githut repo for participants 
+- [Rstudio server](https://rstudio.com/products/rstudio-server-pro/)
+- OBDS GitHub repo overview
+- OBDS GitHub repo for participants 
 - Link to course slides 
-- [conda installation workshop](https://github.com/OBDS-Training/Conda_Workshops/blob/master/1_Conda_intro.md)
+- [Conda installation workshop](https://github.com/OBDS-Training/Conda_Workshops/blob/master/1_Conda_intro.md)
 
 
 ## Course overview 
+
 - link to course timetable
