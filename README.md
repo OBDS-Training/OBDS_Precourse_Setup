@@ -23,7 +23,7 @@ You might already have some of these things installed, so only install those tha
     - [Atom](https://atom.io/) - see the [Atom installation instructions](Atom_install_instructions.md)
 
   - **Mac users**
-    - XCode: Go to Apple App Store and Install Xcode developer tools
+    - [XCode](xcode_setup.md)
   - **Windows users**
     - windows for linux -> David
 
