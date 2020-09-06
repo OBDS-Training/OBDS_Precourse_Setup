@@ -1,6 +1,6 @@
 # Welcome to the OBDS_Overview repository
 
-This repository documents instructions and links to various materials for participants to the OBDS training programme, to set up their computer prior to the course.
+This repository documents instructions and links to various materials for the setup of participants to the OBDS training programme, prior to the course.
 
 ## Pre-course setup instructions
 
