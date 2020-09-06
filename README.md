@@ -1,8 +1,8 @@
 # OBDS_Overview
-This repo is to collect and set out instructions for OBDS participants for laptop setup and where to find links to various materials used for the course
 
+This repository documents instructions and links to various materials for participants to the OBDS training programme, to set up their computer prior to the course.
 
-## Precourse setup instructions 
+## Pre-course setup instructions 
 
 You will need to have a few different software packages installed on your computer and user accounts set up, you might already have some of these things installed, so only install those that you know you don't. 
 
