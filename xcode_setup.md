@@ -9,7 +9,8 @@ If you are not a MacOS user, please ignore this.
 
 ## Instructions
 
-- In the `App Store`, find the [Xcode Developer Tools](https://apps.apple.com/gb/app/xcode/id497799835?mt=12)
+- In the `App Store`, find the [Xcode Developer Tools](https://apps.apple.com/gb/app/xcode/id497799835?mt=12).
+  You can click this link to go to the online Apple App Store; you can then click `Open App Store` when prompted, or click on the `View in Mac App Store` in the web page.
 - In your `Applications` folder, launch `Xcode`.
 
 You may see the following window:
