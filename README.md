@@ -9,11 +9,11 @@ You might already have some of these things installed, so only install those tha
 
 - Accounts to setup:
     - CGAT server account
-    - Github account
+    - [Github account](create_github_account)
 
 - Software required
-  - **Everyone** 
-    - [NX NoMachine](https://www.nomachine.com/) - see the [NoMachine installation instructions](nomachine_setup.pdf)
+  - **Everyone**
+    - [NX NoMachine](https://www.nomachine.com/) - see the [NoMachine setup instructions](nomachine_setup.pdf)
     - File transfer software (any of the below will do, you might already have one or an alternative installed)
         - [Filezilla](https://filezilla-project.org/)
         - [cyberduck](https://cyberduck.io/)
