@@ -16,7 +16,7 @@ You might already have some of these things installed, so only install those tha
     - [NX NoMachine](https://www.nomachine.com/) - see the [NoMachine setup instructions](nomachine_setup.pdf)
     - File transfer software (any of the below will do, you might already have one or an alternative installed)
         - [FileZilla](https://filezilla-project.org/)
-        - [cyberduck](https://cyberduck.io/)
+        - [Cyberduck](https://cyberduck.io/)
     - R. -> Kevin
     - [RStudio](https://rstudio.com/products/rstudio/download/)
     - rsync
