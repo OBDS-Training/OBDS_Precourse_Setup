@@ -1,4 +1,4 @@
-# Create a GitHub account
+# Create a GitHub account
 
 During the course, we will explain what GitHub is and how to make the most of it.
 To save some time, one thing we do ask is that you create a GitHub account prior to commencing the course.
