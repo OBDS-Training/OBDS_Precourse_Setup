@@ -9,7 +9,7 @@ An SSH key pair consists of two files:
 
 Those two files are generated simultaneously on the client computer using the command `ssh-keygen`.
 
-## MacOS
+## MacOS
 
 1. Open a terminal
 2. Enter `ssh-keygen -t rsa -b 2048`.
