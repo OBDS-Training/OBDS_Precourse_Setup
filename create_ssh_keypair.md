@@ -1,10 +1,10 @@
 # Create an SSH key pair
 
-We will explain in more details, suffice to say that SSH key pairs simply represent another method of authentication that can be used when connecting to a remote server, as an alternative to a simple password.
+We will explain this in more detail during the course, suffice it to say that SSH key pairs simply represent another method of authentication that can be used when connecting to a remote server, as an alternative to a password.
 
 An SSH key pair consists of two files:
 
-1. A public key that is copied to the server - usually add to the file `~/.ssh/authorized_keys`.
+1. A public key that is copied to the remote server - usually add to the file `~/.ssh/authorized_keys`.
 2. A private key that is kept exclusively on the client computer that generated it.
 
 Those two files are generated simultaneously on the client computer using the command `ssh-keygen`.
@@ -18,10 +18,7 @@ Those two files are generated simultaneously on the client computer using the co
    This will save the key in the default location (typically, `~/.ssh/id_rsa`)
 4. When prompted for a passphrase, choose whether:
     + You want to encrypt (i.e. protect) they key pair using a password of your choice.
-      It is generally recommended to do so, as this will be the last line of defence if someone gains access to your computer.
-      Furthermore, there is no rule on how simple this password can be.
-    + You feel comfortable about leaving your key pair unencrypted.
-      In that case, do not type anything, and simply press the `Return` key.
+      It is strongly recommended to do so, as this will be the last line of defence if someone gains access to your computer.
       With the right SSH configuration (see further below), this will allow you to connect the server without typing any password from your computer; while keeping your account protected by your original password for anyone (including you) connecting from another computer.
 5. When prompted to enter the passphrase again, repeat the same action as your choice above.
 
