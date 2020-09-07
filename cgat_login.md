@@ -17,11 +17,11 @@ Please use the passwd command to change your password when you log in:
 
 `passwd`
 
-When you first log in you will find yourself in your home directory /ifs/home/<username>. You can check you current directory using the print working directory command:
+When you first log in you will find yourself in your home directory `/ifs/home/<username>`. You can check you current directory using the print working directory command:
 
 `pwd`
 
-During the course we will work in the OBDS-training directory /ifs/obds-training/<cohort>/<username>. You can change to this directory / folder using the change directory command:
+During the course we will work in the OBDS-training directory. You can change to this directory / folder using the change directory command:
 
 `cd /ifs/obds-training/<cohort>/<username>/`
  
