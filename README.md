@@ -12,10 +12,10 @@ You might already have some of these things installed, so only install those tha
 
 ### Software
 - File transfer
-    + [FileZilla](https://filezilla-project.org/) - see download and setup instructions [here](https://github.com/OBDS-Training/OBDS_Overview/blob/master/Filezilla_instructions.pdf)
+    + [FileZilla](https://filezilla-project.org/) - see [download and setup instructions](https://github.com/OBDS-Training/OBDS_Overview/blob/master/Filezilla_instructions.pdf)
 - Remote desktop 
     + [NX NoMachine](https://www.nomachine.com/) - see the [NoMachine setup instructions](nomachine_setup.pdf)
-    + Note for setup you will need to transfer files using filezilla - see setup instructions [here](https://github.com/OBDS-Training/OBDS_Overview/blob/master/Filezilla_instructions.pdf))
+    + Note for setup you will need to transfer files using filezilla - (see setup instructions [here](https://github.com/OBDS-Training/OBDS_Overview/blob/master/Filezilla_instructions.pdf))
 - Text Editor
     + [Atom](https://atom.io/) - see the [Atom installation instructions](atom_installation_instructions.md)
 
