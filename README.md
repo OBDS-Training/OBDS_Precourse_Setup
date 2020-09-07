@@ -1,15 +1,13 @@
 # Welcome to the OBDS Overview repository
 
-This repository provides instructions for the setup of your laptop for the participants to the OBDS training programme, prior to the course.
-
-## Pre-course setup instructions
-
-You will need to have a few different software packages installed on your computer and user accounts set up.
-You might already have some of these things installed, so only install those that you know you do not have already.
+This repository provides instructions for the setup of your laptop for participants on the OBDS training programme, prior to the course.
+During the course you will need user accounts on the CGAT compute cluster (you will receive login credentials by email the week before the course) and Github. 
+There are a few different software packages required on your local computer for the course. 
+You might already have some of these things installed, so only install those that you do not have already.
 
 ### User accounts
 
-- CGAT server account
+- [CGAT server account](cgat_login.md)
 - [Github account](create_github_account.md)
 
 ### Software
@@ -29,5 +27,5 @@ You might already have some of these things installed, so only install those tha
 
 #### Windows users
 
-- Windows for linux # TODO David # - I don't think we need this if the atom terminal works well
+- [Windows Subsystem for Linux](wsl_setup.md)
 
