@@ -23,7 +23,7 @@ You might already have some of these things installed, so only install those tha
     + [Cyberduck](https://cyberduck.io/)
 - [R](https://www.r-project.org/) - refer to the instructions below for [MacOS](#mac-users) and [Windows](#windows-users), respectively.
 - [RStudio](https://rstudio.com/products/rstudio/download/)
-- [Atom](https://atom.io/) - see the [Atom installation instructions](Atom_install_instructions.md)
+- [Atom](https://atom.io/) - see the [Atom installation instructions](atom_installation_instructions.md)
 - [SSH key pair](create_ssh_keypair.md)
 - rsync
 
