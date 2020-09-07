@@ -14,12 +14,11 @@ You might already have some of these things installed, so only install those tha
 
 - Remote desktop
     + [NX NoMachine](https://www.nomachine.com/) - see the [NoMachine setup instructions](nomachine_setup.pdf)
-- File transfer (pick one)
+- File transfer
     + [FileZilla](https://filezilla-project.org/)
-    + [Cyberduck](https://cyberduck.io/)
 - Text Editor
     + [Atom](https://atom.io/) - see the [Atom installation instructions](atom_installation_instructions.md)
-- [SSH key pair](create_ssh_keypair.md)
+
 
 #### Mac users
 
@@ -29,3 +28,6 @@ You might already have some of these things installed, so only install those tha
 
 - [Windows Subsystem for Linux](wsl_setup.md)
 
+### Secure Authentication
+
+- [SSH key pair](create_ssh_keypair.md)
