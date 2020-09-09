@@ -46,6 +46,17 @@ It is possible to switch between multiple versions of R.
 
 This should relaunch `RStudio`, and the prompt should display a launch message indicating that it is using R version 4.0.2.
 
+# Git integration with RStudio
+
+After following the instructions for [Setting up git](git_setup.md) and [Creating an SSH key pair](create_ssh_keypair.md), check that RStudio detects your `git` installation and your private SSH key.
+
+- Launch `RStudio`.
+- In the RStudio menu, click on `Tools`.
+- Click on `Global Options...`.
+- In the `Git/SVN` panel:
+  + The `Git executable:` field should indicate the path to the `git` executable, e.g. `C:\Program Files\Git\bin\git.exe` on Windows.
+  + The `SSH RSA key:` field should indicate the path to your private SSH key, e.g. `C:\Users\Username\.ssh\id_rsa` on Windows.
+
 # Installing Rtools (Windows only)
 
 You may see the following warning message when installing R packages on Windows.

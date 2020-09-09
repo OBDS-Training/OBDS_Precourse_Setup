@@ -1,26 +1,34 @@
 # Setting up git
 
-## Windows
+## Installing git
 
-After completing the instructions for [Setting up Atom](atom_installation_instructions.md):
+### Windows
 
-- Launch Atom from the Start Menu.
-- Open a new file.
-  + In the Atom menu, click on `File`.
-  + Click on `New File`.
-  + In the new file, add the following lines, and edit as needed:
+- In your web browser, navigate to <https://git-scm.com/download/win>.
+- Click on `Click here to download manually`
+- Run the installer
+  + In the screen `Choosing the default editor used by Git`, choose `Use Atom as Git's default editor`.
+  + Leave all other options to their default choice, unless you have specific reasons not to.
 
-```bash
-[user]
-	email = you@example.com
-	name = "Firstname Lastname"
+## Git configuration
+
+Before you can make your first commit using `git`, you need to configure your user profile with two key pieces of information: your email address and your username.
+
+If `git` is unable to find that information, you may be prompted with the following error message:
+
+```
+*** Please tell me who you are.
+Run
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
 ```
 
-- Save the file as `.gitconfig` in your home folder.
-  + In the Atom menu, click on `File`.
-  + Click on `Save As...`.
-  + Navigate to your home folder, e.g. `C:\Users\Username`
-  + In the `File name:` field, type `gitconfig`
-  + Click on the `Save` button.
+### Windows
 
-If you already have a file called `.gitignore` in your home folder, simply make sure that it contains at least the lines above.
+- Launch the Windows PowerShell from the Start Menu.
+- Type the following commands after editing as needed:
+
+```bash
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+```
