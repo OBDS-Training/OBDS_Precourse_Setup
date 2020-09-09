@@ -19,6 +19,7 @@ You might already have some of these things installed, so only install those tha
     + Note for NX NoMachine setup you will need to transfer files using FileZilla - (see setup instructions [here](https://github.com/OBDS-Training/OBDS_Overview/blob/master/Filezilla_instructions.pdf))
 - Text Editor
     + [Atom](https://atom.io/) - see the [Atom installation instructions](atom_installation_instructions.md)
+- [R and RStudio](r_setup.md)
 
 #### Mac users
 
