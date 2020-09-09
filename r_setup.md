@@ -45,3 +45,16 @@ It is possible to switch between multiple versions of R.
 - Restart `RStudio` when prompted.
 
 This should relaunch `RStudio`, and the prompt should display a launch message indicating that it is using R version 4.0.2.
+
+# Installing Rtools (Windows only)
+
+You may see the following warning message when installing R packages on Windows.
+
+```r
+WARNING: Rtools is required to build R packages, but is not currently installed.
+```
+
+- In your web browser, navigate to <https://cran.rstudio.com/bin/windows/Rtools/>
+- Click on `rtools40-x86_64.exe`
+- Run the installer
+  + Use all the default options, unless you have specific reasons not to.
