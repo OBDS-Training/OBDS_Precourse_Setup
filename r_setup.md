@@ -87,7 +87,8 @@ This should relaunch `RStudio`, and the prompt should display a launch message i
 
 ## Git integration with RStudio
 
-After following the instructions for [Setting up git](git_setup.md) and [Creating an SSH key pair](create_ssh_keypair.md), check that RStudio detects your `git` installation and your private SSH key.
+After following the instructions for [Setting up git](git_setup.md), [Creating an SSH key pair](create_ssh_keypair.md), and [Installing XCode (MacOS only)](xcode_setup.md), check that RStudio detects your `git` installation and your private SSH key.
+This will let you manage `git` repositories directly within `RStudio`.
 
 - Launch `RStudio`.
 - In the RStudio menu, click on `Tools`.
