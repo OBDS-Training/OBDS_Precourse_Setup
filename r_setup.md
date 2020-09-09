@@ -93,8 +93,15 @@ After following the instructions for [Setting up git](git_setup.md) and [Creatin
 - In the RStudio menu, click on `Tools`.
 - Click on `Global Options...`.
 - In the `Git/SVN` panel:
-  + The `Git executable:` field should indicate the path to the `git` executable, e.g. `C:\Program Files\Git\bin\git.exe` on Windows.
-  + The `SSH RSA key:` field should indicate the path to your private SSH key, e.g. `C:\Users\Username\.ssh\id_rsa` on Windows.
+  + The `Git executable:` field should indicate the path to the `git` executable, e.g.
+    * `C:\Program Files\Git\bin\git.exe` on Windows.
+    * `/usr/bin/git` on MacOS.
+  + The `SSH RSA key:` field should indicate the path to your private SSH key, e.g.
+    * `C:\Users\Username\.ssh\id_rsa` on Windows.
+    * `/Users/username/.ssh/id_rsa` on MacOS.
+
+Any field that displays `(Not found)` means that `RStudio` did not detect a working installation at any of the standard locations on your system.
+Either relaunch `RStudio`, or try repeating the relevant instructions for [Setting up git](git_setup.md) or [Creating an SSH key pair](create_ssh_keypair.md), and relaunch `RStudio` again to apply the changes.
 
 ## Installing Rtools (Windows only)
 
