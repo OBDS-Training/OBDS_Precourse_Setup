@@ -32,3 +32,4 @@ You might already have some of these things installed, so only install those tha
 ### Secure Authentication
 
 - [SSH key pair](create_ssh_keypair.md)
+- [SSH configuration](ssh_config.md)
