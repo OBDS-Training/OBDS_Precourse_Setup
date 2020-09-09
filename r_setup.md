@@ -1,6 +1,8 @@
 # Setting up R
 
-## MacOS
+## Installing R
+
+### MacOS
 
 - In your web browser, navigate to <https://cran.r-project.org/bin/macosx/>.
 - Click on `R-4.0.2.pkg`.
@@ -10,7 +12,7 @@
 
 This should launch an R prompt in the terminal, and the prompt should display a launch message indicating that it is using R version 4.0.2.
 
-## Windows
+### Windows
 
 - In your web browser, navigate to <https://cran.r-project.org/bin/windows/base/>
 - Click on `Download R 4.0.2 for Windows`
@@ -20,9 +22,9 @@ This should launch an R prompt in the terminal, and the prompt should display a 
 This should launch the application `RGui (64-bit)`.
 You can close this application.
 
-# Installing RStudio
+## Installing RStudio
 
-## MacOS
+### MacOS
 
 - In your web browser, navigate to <https://rstudio.com/products/rstudio/download/>
 - Click on the `DOWNLOAD` button under "RStudio Desktop, Open Source License"
@@ -34,7 +36,7 @@ You can close this application.
 
 This should launch the application `RStudio`, and the prompt should display a launch message indicating that it is using R version 4.0.2.
 
-## Windows
+### Windows
 
 - In your web browser, navigate to <https://rstudio.com/products/rstudio/download/>
 - Click on the `DOWNLOAD` button under "RStudio Desktop, Open Source License"
@@ -46,13 +48,13 @@ This should launch the application `RStudio`, and the prompt should display a la
 
 This should launch the application `RStudio`, and the prompt should display a launch message indicating that it is using R version 4.0.2.
 
-# Managing multiple version of R
+## Managing multiple version of R
 
 We ask that you use R version 4.0.2 for this course.
 Installing R 4.0.2 will not delete the other version(s) of R installed on you computer.
 It is possible to switch between multiple versions of R.
 
-## Windows
+### Windows
 
 - Launch `RStudio`.
 - In the RStudio menu, click on `Tools`.
@@ -65,7 +67,7 @@ It is possible to switch between multiple versions of R.
 
 This should relaunch `RStudio`, and the prompt should display a launch message indicating that it is using R version 4.0.2.
 
-# Git integration with RStudio
+## Git integration with RStudio
 
 After following the instructions for [Setting up git](git_setup.md) and [Creating an SSH key pair](create_ssh_keypair.md), check that RStudio detects your `git` installation and your private SSH key.
 
@@ -76,7 +78,7 @@ After following the instructions for [Setting up git](git_setup.md) and [Creatin
   + The `Git executable:` field should indicate the path to the `git` executable, e.g. `C:\Program Files\Git\bin\git.exe` on Windows.
   + The `SSH RSA key:` field should indicate the path to your private SSH key, e.g. `C:\Users\Username\.ssh\id_rsa` on Windows.
 
-# Installing Rtools (Windows only)
+## Installing Rtools (Windows only)
 
 You may see the following warning message when installing R packages on Windows.
 
