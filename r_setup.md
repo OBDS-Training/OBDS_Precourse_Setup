@@ -20,7 +20,7 @@ This should launch an R prompt in the terminal, and the prompt should display a 
 This should launch the application `RGui (64-bit)`.
 You can close this application.
 
-# Setting up RStudio
+# Installing RStudio
 
 ## MacOS
 
