@@ -1,4 +1,4 @@
-# Create an SSH key pair
+# Creating an SSH key pair
 
 We will explain this in more detail during the course, suffice it to say that SSH key pairs simply represent another method of authentication that can be used when connecting to a remote server, as an alternative to a password.
 
