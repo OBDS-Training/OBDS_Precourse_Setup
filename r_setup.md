@@ -29,8 +29,19 @@ This should launch the application `RStudio`, and the prompt should display a la
 
 # Managing multiple version of R
 
+We ask that you use R version 4.0.2 for this course.
+Installing R 4.0.2 will not delete the other version(s) of R installed on you computer.
+It is possible to switch between multiple versions of R.
+
 ## Windows
 
-<https://support.rstudio.com/hc/en-us/articles/200486138-Changing-R-versions-for-RStudio-desktop>
+- Launch `RStudio`.
+- In the RStudio menu, click on `Tools`.
+- Click on `Global Options...`.
+- In the `General` panel, in the `Basic` sub-panel, next to the `R version:` field, click on the `Change...` button.
+- Select `Choose a specific version of R:`.
+- Select `[64-bit] C:\Program Files\R\R-4.0.2`.
+- Click on `OK`
+- Restart `RStudio` when prompted.
 
-1
+This should relaunch `RStudio`, and the prompt should display a launch message indicating that it is using R version 4.0.2.
