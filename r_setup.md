@@ -1,5 +1,15 @@
 # Setting up R
 
+## MacOS
+
+- In your web browser, navigate to <https://cran.r-project.org/bin/macosx/>.
+- Click on `R-4.0.2.pkg`.
+- Run the installer.
+  + Use all the default options, unless you have specific reasons not to.
+- Test your installation by launching `R` by typing `R` in a Terminal.
+
+This should launch an R prompt in the terminal, and the prompt should display a launch message indicating that it is using R version 4.0.2.
+
 ## Windows
 
 - In your web browser, navigate to <https://cran.r-project.org/bin/windows/base/>
@@ -20,7 +30,7 @@ Please make sure you have already installed R 4.0.2 as indicated above.
 - In your web browser, navigate to <https://rstudio.com/products/rstudio/download/>
 - Click on the `DOWNLOAD` button under "RStudio Desktop, Open Source License"
 - On the next web page, click on `DOWNLOAD RSTUDIO FOR WINDOWS`.
-  The button should mention a version number 1.3.1073 of higher (last checked on 09/09/2020).
+  The button should mention a version number 1.3.1073 or higher.
 - Run the installer.
   + Use all the default options, unless you have specific reasons not to.
 - Test your installation by launching `RStudio` from the Start Menu.
