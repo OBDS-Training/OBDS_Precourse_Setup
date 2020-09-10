@@ -50,6 +50,9 @@ Don't worry too much about this, but one thing we do want to set is the 'soft ta
     - [platformio-IDE-terminal](https://atom.io/packages/platformio-ide-terminal): This package allows you to run a terminal from Atom.
       We will use this package to log onto the server and run our code in the terminal on the server.
     - [teletype](https://atom.io/packages/teletype): Allows you to collaborate in real time on the same document with other users.
+    - [script](https://atom.io/packages/script): Enables you to run python scripts in Atom.
+    - [tool-bar](https://atom.io/packages/tool-bar): Adds a customisable tool bar.
+    - [tool-bar-atom](https://atom.io/packages/tool-bar-atom): Adds a tool bar for common atom shortcuts (based on tool-bar).
 
 1) To install the above packages navigate to the Atom settings pane, like we did above.
 2) On the left of the settings window click the `Install` tab.
