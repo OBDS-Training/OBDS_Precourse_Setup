@@ -53,7 +53,11 @@ Don't worry too much about this, but one thing we do want to set is the 'soft ta
     - [script](https://atom.io/packages/script): Enables you to run python scripts in Atom.
     - [tool-bar](https://atom.io/packages/tool-bar): Adds a customisable tool bar.
     - [tool-bar-atom](https://atom.io/packages/tool-bar-atom): Adds a tool bar for common atom shortcuts (based on tool-bar).
-
+    - [python-debugger](https://atom.io/packages/python-debugger): A tool for debugging Python code.
+    - [python-autopep8](https://atom.io/packages/python-autopep8): A tool for formatting Python code.
+    - [ide-python](https://atom.io/packages/ide-python): A suite of tools for adding syntax checking and code auto-completion for Python code.
+    - [atom-ide-ui](https://atom.io/packages/atom-ide-ui): Additions to te Atom user interface for linters and debuggers.
+    
 1) To install the above packages navigate to the Atom settings pane, like we did above.
 2) On the left of the settings window click the `Install` tab.
 3) You should now be in a pane called `Install Packages` and see a search bar at the top.
