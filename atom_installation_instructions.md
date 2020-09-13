@@ -17,7 +17,7 @@ For example you might have come across [GNU Emacs](https://www.gnu.org/software/
 It's very much a matter of personal preference as to which one you choose, some are very basic and easy to use like [GNU nano](https://www.nano-editor.org/) and [gedit](https://wiki.gnome.org/Apps/Gedit), whilst others like [GNU Emacs](https://www.gnu.org/software/emacs/) and [Vim](https://www.vim.org/) offer more advanced functionality which comes at the cost of a steeper learning curve.
 For instance, some editors are customizable, with lots of additional functionality that can make writing code faster once you get to grips with their keyboard shortcuts and syntax.
 
-We like [Atom](https://atom.io/) as it is simple to get started with, while it also has a lot of nice add-on packages that make life a whole lot easier (e.g. it integrates with GitHub seamlessly, it can edit files remotely on a server, and it can run R and python code interactively in the same session).
+We like [Atom](https://atom.io/) as it is simple to get started with, while it also has a lot of nice add-on packages that make life a whole lot easier (e.g. it integrates with GitHub seamlessly, it can edit files remotely on a server, and it can run R and Python code interactively in the same session).
 
 ## Installing Atom on your own computer
 
@@ -32,8 +32,8 @@ That said, consider following the instruction in the [Updating Atom](https://fli
 - See Atom documentation for [getting started](https://flight-manual.atom.io/getting-started/sections/atom-basics/): This has a brief guide on [Changing the theme](https://flight-manual.atom.io/getting-started/sections/atom-basics/#changing-the-theme) settings to make the Atom window look pretty.
 Don't worry too much about this, but one thing we do want to set is the 'soft tab' option and 'tab length':
     1) Open Atom
-    2) Get to the settings pane. It might immediately open as a tab in the editor window when you launch Atom, but if not you can open it by navigating the Atom meny to either `File/Settings` if you are using Windows or `Atom/Preferences` if you are using Mac.
-    3) In the Atom `Settings` pane, on the left handside there should be a tab called `Editor`. Click on the `Editor` Tab and scroll down to the `Soft Tabs` option
+    2) Get to the settings pane. It might immediately open as a tab in the editor window when you launch Atom, but if not you can open it by navigating the Atom menu to either `File/Settings` if you are using Windows or `Atom/Preferences` if you are using Mac.
+    3) In the Atom `Settings` pane, on the left handside there should be a tab called `Editor`. Click on the `Editor` Tab and scroll down to the `Soft Tabs` option.
     4) Click so `Soft Tabs` has a 'tick' next to the `Soft Tabs` option.
     5) Scroll down a couple of boxes further to `Tab length` and set this to `4` if it's not already.
        We do this because some programming languages do not like a mix of tabs and spaces when you are writing code.
