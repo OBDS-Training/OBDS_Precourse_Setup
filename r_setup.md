@@ -54,7 +54,7 @@ We ask that you use R version 4.0.2 for this course.
 Installing R 4.0.2 will not delete the other version(s) of R installed on you computer.
 It is possible to switch between multiple versions of R.
 
-### MacOS
+### MacOS
 
 - In your web browser, navigate to <https://rud.is/rswitch/>.
 - Click on the `Download RSwitch` button.
