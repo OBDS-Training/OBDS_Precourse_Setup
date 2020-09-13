@@ -20,7 +20,7 @@ You might already have some of these things installed, so only install those tha
 - Text Editor
     + [Atom](https://atom.io/) - see the [Atom installation instructions](atom_installation_instructions.md).
 - Version control
-    + [git](Git_setup.md)
+    + [Git](git_setup.md)
 - [R and RStudio](r_setup.md).
 
 #### Mac users
