@@ -55,7 +55,7 @@ git config --global user.name
 
 If both commands display information in the console, then everything is set and you can ignore the instructions below.
 
-If any of those commands does not display any result, use the commands below to set the relevant pieces of information.
+If any of those commands does not display a result, use the commands below to set the relevant pieces of information.
 
 - Type the following commands after editing as needed:
 
@@ -64,4 +64,4 @@ git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 ```
 
-You can then run again the commands above to check your configuration.
+You can then run the commands above again to check your configuration.
