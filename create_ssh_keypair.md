@@ -53,4 +53,4 @@ With those, it will be possible for you to use the key pair for logging into rem
 6. When the key is ready, if you want to encrypt the key with a passphrase, fill the corresponding fields to set and confirm the passphrase.
   See the instructions for MacOS for more information to choose whether to set a passphrase.
 7. Click on `Save public key` and `Save private key`.
-   Save each key in a safe and memorable location for late use.
+   Save each key in a safe and memorable location for later use.
