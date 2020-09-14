@@ -29,7 +29,7 @@ computer:
 
 9. Select `Don't use a proxy`
 
-10. Give a name to your connection e.g. `Tunnel to cgath1`. If you would like a link on your Desktop, tick `Create a link on the desktop`
+10. Give a name to your connection e.g. `Tunnel to cgath1`. If you would like a link on your desktop, tick `Create a link on the desktop`
 
 ![Name](img/nomachine_connectionname.png)
 
