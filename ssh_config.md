@@ -57,6 +57,8 @@ Host *
     IdentityFile ~/.ssh/id_rsa
     Port 22
     Protocol 2
+    AddKeysToAgent yes
+    UseKeychain yes
     TCPKeepAlive yes
     ServerAliveInterval 300
     ServerAliveCountMax 2
@@ -64,6 +66,7 @@ Host *
     ForwardX11Trusted yes
     ForwardAgent yes
     Compression yes
+    XAuthLocation /opt/X11/bin/xauth
 
 Host cgat
     Hostname cgatui.imm.ox.ac.uk
