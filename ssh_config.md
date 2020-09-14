@@ -4,7 +4,7 @@ Before you proceed, please make sure you have completed all the instructions for
 
 Here, we configure SSH profile that allowing you to connect more rapidly to the cluster for this course.
 
-## Windows
+## Windows / MacOS
 
 - Launch the `Atom` editor.
 - In the `Atom` menu, click on `File`.
