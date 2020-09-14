@@ -1,4 +1,4 @@
-# Setting up your MacOS Laptop
+# Mac Laptop Setup
 
 ### Software
 
@@ -14,6 +14,5 @@
 - Text Editor
     + [Atom](https://atom.io/) - see the [Atom installation instructions](atom_installation_instructions.md).
 - Version control
-    + [Git](git_setup.md)
+    + Git - install using [XCode](xcode_setup.md)
 - [R and RStudio](r_setup.md).
-- [XCode](xcode_setup.md)
