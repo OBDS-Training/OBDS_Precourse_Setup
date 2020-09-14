@@ -12,11 +12,12 @@ You might already have some of these installed, so only install those that you d
 
 ### User accounts
 
-- [CGAT server account](cgat_login.md)
 - [Github account](create_github_account.md)
 
+## During the Course
 
-## Secure Authentication
+### Secure Authentication
 
 - [SSH key pair](create_ssh_keypair.md)
 - [SSH configuration](ssh_config.md)
+
