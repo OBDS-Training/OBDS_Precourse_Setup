@@ -50,6 +50,8 @@ Host h1
 
 ##  MacOS
 
+Use the following template instead.
+
 ```
 Host *
     IdentityFile ~/.ssh/id_rsa
