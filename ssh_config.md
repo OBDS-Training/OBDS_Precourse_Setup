@@ -4,7 +4,7 @@ Before you proceed, please make sure you have completed all the instructions for
 
 Here, we configure SSH profile that allowing you to connect more rapidly to the cluster for this course.
 
-## Windows / MacOS
+## Windows
 
 - Launch the `Atom` editor.
 - In the `Atom` menu, click on `File`.
@@ -47,3 +47,28 @@ Host h1
   + Select `platformio-ide-terminal` and `New Terminal`.
   + Type `ssh cgat`. You should log into the cluster and the prompt should start with `[username@cgatui ~]$`. Disconnect.
   + Type `ssh h1`. You should log into the cluster and the prompt should start with `[username@cgath1 ~]$`. Disconnect.
+
+##  MacOS
+
+```
+Host *
+    IdentityFile ~/.ssh/id_rsa
+    Port 22
+    Protocol 2
+    TCPKeepAlive yes
+    ServerAliveInterval 300
+    ServerAliveCountMax 2
+    ForwardX11 yes
+    ForwardX11Trusted yes
+    ForwardAgent yes
+    Compression yes
+
+Host cgat
+    Hostname cgatui.imm.ox.ac.uk
+    User username
+
+Host h1
+    Hostname cgath1
+    User username
+    ProxyCommand ssh username@cgatui.imm.ox.ac.uk nc %h %p
+```
