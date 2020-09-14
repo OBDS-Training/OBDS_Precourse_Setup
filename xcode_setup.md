@@ -26,3 +26,9 @@ Once the installation is complete, the `Xcode` welcome screen will appear.
 <img src="img/xcode_welcome_screen.png" alt="Xcode welcome screen"></img>
 
 - You can simply close it; everything is ready.
+
+You can test your git installation as follows:
+
+- In a Terminal, type `git`.
+
+This should display a message indicating the main `git` subcommands.
