@@ -6,6 +6,7 @@
     + Use the builtin Terminal app
     + Default shell is zsh, an extension of bash
     + Alternative [iTerm2](https://iterm2.com/)
+    + [Connect to CGAT cluster using SSH](cgat_login.md)
 - File transfer
     + [FileZilla](https://filezilla-project.org/) - see [download and setup instructions](filezilla_instructions.pdf).
 - Remote desktop
