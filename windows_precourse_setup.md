@@ -4,6 +4,7 @@
 
 - Linux command line
     + [Windows Subsystem for Linux](wsl_setup.md)
+    + [Loggin into the CGAT cluster using SSH])cgat_loogin.md)
 - File transfer
     + [FileZilla](https://filezilla-project.org/) - see [download and setup instructions](filezilla_instructions.pdf).
 - Remote desktop
