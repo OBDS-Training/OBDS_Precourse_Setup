@@ -15,4 +15,4 @@
     + [Atom](https://atom.io/) - see the [Atom installation instructions](atom_installation_instructions.md).
 - Version control
     + Git - install using [XCode](xcode_setup.md)
-- [R and RStudio](r_setup.md).
+- [R and RStudio](r_setup_macos.md).
