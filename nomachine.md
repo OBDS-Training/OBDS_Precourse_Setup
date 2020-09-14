@@ -1,4 +1,5 @@
 ## NoMachine setup
+NoMachine NX software provides a remote desktop on the HPC cluster enabling you to run graphical applications, such as Atom, Rstudio or IGV on the server. 
 
 1. Copy the following file from `ifs/obds-training/sep20/shared/nx` to your local
 computer:
