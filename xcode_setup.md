@@ -1,6 +1,6 @@
 # Installing XCode (MacOS only)
 
-Some of the software packages that we will use during the course require software development utilities that can be obtained by installing the _Command Line Tools_ for XCode.
+Some of the software packages that we will use during the course (e.g. git) require software development utilities that can be obtained by installing the _Command Line Tools_ for XCode.
 
 ## Note
 
