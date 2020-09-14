@@ -9,7 +9,7 @@ An SSH key pair consists of two files:
 
 Those two files are generated simultaneously on the client computer using the command `ssh-keygen`.
 
-## MacOS
+## MacOS & Windows Subsystem for Linux
 
 1. Open a terminal
 2. Enter `ssh-keygen -t rsa -b 2048`.
@@ -33,24 +33,3 @@ With those, it will be possible for you to use the key pair for logging into rem
 - The high performance computing cluster that we use for this course
 - GitHub
 - Other servers (e.g. a Raspberry Pi)
-
-## Windows
-
-### Method 1
-
-1. Follow the instructions to [Install Atom and add-ons](atom_installation_instructions.md)
-2. In the menu bar, click successively on `Packages` > `platformio-ide-terminal` > `New Terminal`, to launch a new terminal.
-3. In the terminal, type `ssh-keygen.exe -t rsa -b 2048`.
-4. Continue, following the MacOS instructions from point 3 onwards.
-
-### Method 2
-
-1. Download [PuTTYgen](https://www.puttygen.com/).
-2. From the Start Menu, launch `PuTTYgen`.
-3. In `Parameters`, select `RSA` and type `2048` for the number of bits.
-4. Click on the `Generate` button.
-5. Generate some randomness by moving your mouse cursor across the large grey rectangular area in the window.
-6. When the key is ready, if you want to encrypt the key with a passphrase, fill the corresponding fields to set and confirm the passphrase.
-  See the instructions for MacOS for more information to choose whether to set a passphrase.
-7. Click on `Save public key` and `Save private key`.
-   Save each key in a safe and memorable location for later use.
