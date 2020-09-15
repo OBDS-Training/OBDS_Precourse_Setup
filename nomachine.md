@@ -50,4 +50,4 @@ computer:
 
 ![NoMachine Desktop](img/nomachine_desktop.png)
 
-15. Well done - your connection is now setup and ready to go :)
+15. Well done - your connection is now set up and ready to go :)
