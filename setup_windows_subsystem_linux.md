@@ -1,4 +1,4 @@
-# Windows Subsystem for Linux
+# Windows Subsystem for Linux (WSL)
 
 ## Installation
 
@@ -99,3 +99,10 @@ You can list distributions installed and available in your Windows Subsystem for
 NAME              STATE           VERSION
 * Ubuntu-20.04    Running         1
 ```
+
+The home directory of your Ubuntu user can be found in your Windows File Explorer at a path that should look like `C:\Users\[USERNAME]\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_[CODE]\LocalState\rootfs`.
+To facilitate
+
+Your WSL home directory can be found at `C:\Users\[USERNAME]\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_[CODE]\LocalState\rootfs` on Windows File Explorer.
+
+To facilitate parts the course that use Windows applications to edit files in your Ubuntu filesystem, create a shortcut to the WSL home directory and store that shortcut in your Windows user directory that should look like `C:\Users\[USERNAME]`.
