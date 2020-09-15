@@ -24,9 +24,9 @@ computer:
 
 ![Login](img/nomachine_login.png)
 
-8. Copy `cgat.key` to your local computer from `/ifs/obds-training/sep20/shared/nx` using FileZilla (see [FileZilla instructions](filezilla_instructions.pdf)). Click to use an alternative server key and supply the path to cgat150.key on your local computer.
+8. Copy `cgat.key` to your local computer from `/ifs/obds-training/sep20/shared/nx` using FileZilla (see [FileZilla instructions](filezilla_instructions.pdf)). Click to use an alternative server key and supply the path to cgat.key on your local computer.
 
-![Key](img/nomachine_cgat150.png)
+![Key](img/nomachine_cgatkey.png)
 
 9. Select `Don't use a proxy`
 
