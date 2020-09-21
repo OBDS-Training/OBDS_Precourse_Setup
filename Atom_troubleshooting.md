@@ -11,7 +11,7 @@ This file goes through steps to check our atom installations are working as expe
   
   `$ atom`
   
-4) You should be greated by the atom welcome screen 
+4) You should be greeted by the atom welcome screen 
 
 5) Open `atom_test.py` in atom from the file/open menu 
 
