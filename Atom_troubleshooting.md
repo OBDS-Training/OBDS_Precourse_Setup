@@ -63,7 +63,7 @@ If it's not don't worry we just need to do a couple more steps - see fix 1 below
  ```
  
  - Is conda working? 
- - Note the possition of your conda paths in the list of the $PATH variable - the order of the list is the order the places will be searched for python, if conda is at the end we need to set the platformio-terminal to add your conda path in front of the path that it is setting see troubleshooting 1 below. 
+ - Note the position of your conda paths in the list of the $PATH variable - the order of the list is the order the places will be searched for python, if conda is at the end we need to set the platformio-terminal to add your conda path in front of the path that it is setting see troubleshooting 1 below. 
  
 
 # Troubleshooting 
