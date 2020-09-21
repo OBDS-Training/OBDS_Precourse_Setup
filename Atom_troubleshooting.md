@@ -72,16 +72,26 @@ If it's not don't worry we just need to do a couple more steps - see fix 1 below
 
 This is a problem that occurs because during the install of `atom` it requires the user to give `atom` permissions to allow you to use the `atom` command on the command line, in the atom installation instructions it states:
 
-     When you first open Atom, it will try to install the atom and apm commands for use in the terminal. In some cases, Atom might not be able to install these commands because it needs an administrator password. To check if Atom was able to install the atom command, for example, open a terminal window and type which atom. If the atom command has been installed, you'll see something like this:
+```
+When you first open Atom, it will try to install the atom and apm commands for use in the terminal. 
+In some cases, Atom might not be able to install these commands because it needs an administrator password. 
+To check if Atom was able to install the atom command, for example, open a terminal window and type which atom. 
+If the atom command has been installed, you'll see something like this:
 
-  ```$ which atom
-      /usr/local/bin/atom
-  ```
-  
-    If the atom command wasn't installed, the which command won't return anything:
+ $ which atom
+ /usr/local/bin/atom
+ 
+ If the atom command wasn't installed, the `which` command won't return anything:
 
-    To install the atom and apm commands, run "Window: Install Shell Commands" from the Command Palette, which will prompt you for an administrator password.
+ To install the atom and apm commands, run "Window: Install Shell Commands" from the Command Palette, which will prompt you for an administrator password.
+```
+An alternative way to install the "Window Install Shell Commands" is to open atom by clicking on the icon. When atom opens on the top menu bar of the window where you have 'file', 'edit', 'view' buttons etc click on the 'Atom' menu, then half way down there is a button that says `Install Shell Commands` - click on this and the shell commands will install - open a freah terminal and try typing `atom` this time it should work 
 
+**2) How to open atom in a conda instance in windows**
+
+To open Atom in a specific conda enviroment on a windows machine - go to your menu and select the anaconda prompt - in the anaconda prompt activate the conda encironment that you want using `conda activate obds-py3`
+
+then type `atom` to open your atom instance 
 **2) the platformio ide does not pick up my conda python - its picking up the system python**
 See fix here ->https://stackoverflow.com/questions/43207427/using-anaconda-environment-in-atom find 
 
