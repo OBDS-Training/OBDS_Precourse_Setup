@@ -68,7 +68,21 @@ If it's not don't worry we just need to do a couple more steps - see fix 1 below
 
 # Troubleshooting 
 
-**1) the platformio ide does not pick up my conda python - its picking up the system python**
+**1) When i'm in a terminal and type `atom` on the command line noting happens, even though I can open atom from lauchpad or my apps 
+
+This is a problem that occurs because during the install of `atom` it requires the user to give `atom` permissions to allow you to use the `atom` command on the command line, in the atom installation instructions it states:
+
+     When you first open Atom, it will try to install the atom and apm commands for use in the terminal. In some cases, Atom might not be able to install these commands because it needs an administrator password. To check if Atom was able to install the atom command, for example, open a terminal window and type which atom. If the atom command has been installed, you'll see something like this:
+
+  ```$ which atom
+      /usr/local/bin/atom
+  ```
+  
+    If the atom command wasn't installed, the which command won't return anything:
+
+    To install the atom and apm commands, run "Window: Install Shell Commands" from the Command Palette, which will prompt you for an administrator password.
+
+**2) the platformio ide does not pick up my conda python - its picking up the system python**
 See fix here ->https://stackoverflow.com/questions/43207427/using-anaconda-environment-in-atom find 
 
 In summary:
@@ -99,11 +113,11 @@ change to `default` to:
 https://stackoverflow.com/questions/43207427/using-anaconda-environment-in-atom
 
 
-**2) even if i'm not in the obds conda env when i run a script in python using the `script` package its running in the obds env**
+**3) even if i'm not in the obds conda env when i run a script in python using the `script` package its running in the obds env**
 
 Check you have opened atom from the command line in the right environment
 
-**3)I cannot see the big buttons at the top of the tool bar**
+**4)I cannot see the big buttons at the top of the tool bar**
  
 Make sure you have both the `tool-bar` and the `tool-bar-atom` packages installed in atom
 
