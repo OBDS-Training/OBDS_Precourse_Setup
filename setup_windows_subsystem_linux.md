@@ -101,7 +101,6 @@ NAME              STATE           VERSION
 ```
 
 The home directory of your Ubuntu user can be found in your Windows File Explorer at a path that should look like `C:\Users\[USERNAME]\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_[CODE]\LocalState\rootfs`.
-To facilitate
 
 Your WSL home directory can be found at `C:\Users\[USERNAME]\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_[CODE]\LocalState\rootfs` on Windows File Explorer.
 
