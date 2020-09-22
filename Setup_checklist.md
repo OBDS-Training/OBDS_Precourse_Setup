@@ -1,41 +1,42 @@
 # Setup Checklist 
 
-This page birefly summaries all the thngs that are set up prior and during the course and some checks that are needed to make sure things are functioning correctly. 
+This page briefly summarises all the thngs that are set up prior and during the course along with some checks we need to make to make sure things are functioning correctly. 
+
 
 ## General 
 
-- Github account
-- Server account 
-- Vpn setup
-- Access to OBDS Github Repo
-  - Cohort training repo 
-  - precourse set up instructions 
+- Github account                    # Before course
+- Server account                    # Before course
+- VPN setup                         # Before course
+- Access to OBDS Github Repo        # Before course
+  - Cohort training repo            # Before course
+  - precourse set up instructions   # Before course
 
 
 ## Server
 
 
 - Linux
-   - copy .bashrc & .inputrc
-   - Add aliases
-   - Create SSH Key (for GitHub access from server)
-   - Add local laptop public key to .ssh/authorized_keys
+   - copy .bashrc & .inputrc                                # Week 1 - Day 1/2
+   - Add aliases                                            # Week 1 - Day 1/2 
+   - Create SSH Key (for GitHub access from server)         # Week 1 - Day 1/2
+   - Add local laptop public key to .ssh/authorized_keys    # Week 1 - Day 1/2 
 
 - Conda 
-  - install miniconda
-  - install mamba
-  - create obds_enviroment
-  - modify .bashrc
+  - install miniconda             # Week1 - Conda Day
+  - install mamba                 # Week1 - Conda Day
+  - create obds_enviroment        # Week1 - Conda Day
+  - modify .bashrc                # Week1 - Conda Day
 
 - git 
-  - installed
-  - config
-    - user name
-    - email (github account)
-    - default editor
-  - enter rsa key on github 
-  - clone shared cohort repo from github
-  - create own personal repo on github and locally
+  - installed                                         # Week1 - Git Day
+  - config                                            # Week1 - Git Day
+    - user name                                       # Week1 - Git Day
+    - email (github account)                          # Week1 - Git Day
+    - default editor                                  # Week1 - Git Day
+  - enter rsa key on github                           # Week1 - Git Day
+  - clone shared cohort repo from github              # Week1 - Git Day
+  - create own personal repo on github and locally    # Week1 - Git Day
 
 
 ## Local Macos Machine
