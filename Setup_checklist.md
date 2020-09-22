@@ -15,54 +15,59 @@ This page birefly summaries all the thngs that are set up prior and during the c
 ## Server
 
 
-- bashrc
+- Linux
+   - copy .bashrc & .inputrc
+   - Add aliases
+   - Create SSH Key (for GitHub access from server)
+   - Add local laptop public key to .ssh/authorized_keys
 
 - Conda 
   - install miniconda
   - install mamba
   - create obds_enviroment
-  - modify .bash_profile/.zshrc/.bashrc
+  - modify .bashrc
 
 - git 
-  - installed ( From Xcode)
+  - installed
   - config
     - user name
     - email (github account)
     - default editor
-  - rnter rsa key on github 
+  - enter rsa key on github 
 
 
-## Local Machine
+## Local Macos Machine
 
 - NX -> set up connection to server
 - filezilla -> set up connection to server
 - XCode - downloaded and installed - easiest to do this from app store
 
-- SSH key to server
-- ssh config file 
+- Terminal
+  - Create SSH key
+  - copy public SSH key to server authorised_keys file
+  - Create (copy) .ssh/config for tunnels to server
 
 - Conda 
   - install miniconda
   - install mamba
   - create obds_enviroment
-  - modify .bash_profile/.zshrc/.bash_rc
+  - modify .bash_profile/.zshrc/.bashrc/.profile
 
 - git 
-  - installed ( From Xcode)
+  - installed (From Xcode)
   - config
     - user name
     - email (github account)
     - default editor
-  - rnter rsa key on github 
+  - enter rsa key on github 
   
 - Atom
-  - installed 
-  - can open from the command line 
-  - has packages sucessfully installed
+  - install as app (don't install kite)
+  - install packages
       - ftp-remote edit
       - platformio-ide-terminal
       - etc
-  - can open terminal 
+  - open from the command line in conda env
   - can change conda env in terminal and pick up correct python 
   - path is set correctly in terminal 
   - modify terminal path/config file if nessecary
@@ -71,5 +76,49 @@ This page birefly summaries all the thngs that are set up prior and during the c
   - debugger installed and working
   - link to github by adding token to github atom pane 
   - ftp-remote-edit working
-  - start up no error messages 
-  - disable kite? 
+  - start up no error messages
+
+
+## Local Windows10 Machine
+
+- NX -> set up connection to server
+- filezilla -> set up connection to server
+
+- Bash terminal
+  - Install git-bash (comes with git-scm)
+  - Create SSH key
+  - Copy public SSH key to server authorised_keys file
+  - Create (copy) .ssh/config for tunnels to server
+
+- git 
+  - install git-scm
+  - config
+    - user name
+    - email (github account)
+    - default editor
+  - enter rsa key on github
+
+- Conda 
+  - install miniconda
+  - install mamba
+  - create obds_enviroment
+  - modify .bash_profile/.bashrc/.profile
+
+- Atom
+  - install as app (don't install kite)
+  - install packages
+      - ftp-remote edit
+      - platformio-ide-terminal
+      - etc
+  - open from the command line in conda env
+  - change the terminal to bash in platformio-ide-terminal settings
+  - Ensure path is set correctly in terminal 
+    - echo $PATH
+    - which python
+  - modify terminal path/config file if nessecary
+  - python IDE is working correctly and picking up conda python - linter and autopep8 are working
+  - toolbar buttons are visable and working
+  - (debugger installed and working)
+  - link to github by adding token to github atom pane 
+  - ftp-remote-edit setup (week 3)
+  - start up no error messages
