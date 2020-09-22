@@ -34,6 +34,8 @@ This page birefly summaries all the thngs that are set up prior and during the c
     - email (github account)
     - default editor
   - enter rsa key on github 
+  - clone shared cohort repo from github
+  - create own personal repo on github and locally
 
 
 ## Local Macos Machine
@@ -60,6 +62,8 @@ This page birefly summaries all the thngs that are set up prior and during the c
     - email (github account)
     - default editor
   - enter rsa key on github 
+  - clone shared training cohort repo
+  - clone own personal repo for the course
   
 - Atom
   - install as app (don't install kite)
@@ -97,7 +101,9 @@ This page birefly summaries all the thngs that are set up prior and during the c
     - email (github account)
     - default editor
   - enter rsa key on github
-
+  - clone shared training cohort repo
+  - clone own personal repo for the course
+  
 - Conda 
   - install miniconda
   - install mamba
