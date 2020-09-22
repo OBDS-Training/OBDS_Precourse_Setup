@@ -135,7 +135,7 @@ Check you have opened atom from the command line in the right environment
  
 Make sure you have both the `tool-bar` and the `tool-bar-atom` packages installed in atom
 
-**6) Set up atom with git 
+**6) Set up atom with git**
 
 - If you have file thats already in a git repository, click on it to open, then click on the github icon at the bottom of the `atom` window
 - In the github pane you will see a 'log in to GitHub' panel, click on the `login` button
