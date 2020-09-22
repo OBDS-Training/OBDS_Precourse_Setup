@@ -1,5 +1,6 @@
-#Setup Checklist 
+# Setup Checklist 
 
+This page birefly summaries all the thngs that are set up prior and during the course and some checks that are needed to make sure things are functioning correctly. 
 
 ## General 
 
