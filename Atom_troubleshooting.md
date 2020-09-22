@@ -11,7 +11,7 @@ This file goes through steps to check our atom installations are working as expe
   
   `$ atom`
   
-4) You should be greeted by the atom welcome screen 
+4) You should be greeted by the atom welcome screen -> if not see troubleshooting step 1 & 2 below
 
 5) Open `atom_test.py` in atom from the file/open menu 
 
@@ -53,7 +53,7 @@ This file goes through steps to check our atom installations are working as expe
 The top line thats printed should contain the path to your conda installation and look something like this:
 `/Users/charlie/miniconda/envs/obds-py3/lib/python3.8` 
 
-If it's not don't worry we just need to do a couple more steps - see fix 1 below
+If it's not don't worry we just need to do a couple more steps 
  
  9) Look at you $PATH variable that was printed 
  
@@ -62,15 +62,15 @@ If it's not don't worry we just need to do a couple more steps - see fix 1 below
      $ echo $PATH
  ```
  
- - Is conda working? 
+ - Is conda working?  
  - Note the position of your conda paths in the list of the $PATH variable - the order of the list is the order the places will be searched for python, if conda is at the end we need to set the platformio-terminal to add your conda path in front of the path that it is setting see troubleshooting 1 below. 
  
 
 # Troubleshooting 
 
-**1) When i'm in a terminal and type `atom` on the command line noting happens, even though I can open atom from lauchpad or my apps 
+**1) When i'm in a terminal and type `atom` on the command line noting happens, even though I can open atom from lauchpad or my apps**
 
-This is a problem that occurs because during the install of `atom` it requires the user to give `atom` permissions to allow you to use the `atom` command on the command line, in the atom installation instructions it states:
+This is a problem that occurs because during the install of `atom` it requires the user to give `atom` permissions to allow you to use the `atom` command on the command line, in the atom installation [instructions](https://flight-manual.atom.io/getting-started/sections/installing-atom/) it states:
 
 ```
 When you first open Atom, it will try to install the atom and apm commands for use in the terminal. 
@@ -83,16 +83,20 @@ If the atom command has been installed, you'll see something like this:
  
  If the atom command wasn't installed, the `which` command won't return anything:
 
- To install the atom and apm commands, run "Window: Install Shell Commands" from the Command Palette, which will prompt you for an administrator password.
+ To install the atom and apm commands, run "Window: Install Shell Commands" from the Command Palette,
+ which will prompt you for an administrator password.
 ```
-An alternative way to install the "Window Install Shell Commands" is to open atom by clicking on the icon. When atom opens on the top menu bar of the window where you have 'file', 'edit', 'view' buttons etc click on the 'Atom' menu, then half way down there is a button that says `Install Shell Commands` - click on this and the shell commands will install - open a freah terminal and try typing `atom` this time it should work 
 
-**2) How to open atom in a conda instance in windows**
+If this didn't happen during your install an alternative way to install the "Window Install Shell Commands" is to open atom by clicking on the icon. When atom opens on the top menu bar of the window where you have `file`, `edit`, `view` buttons etc click on the `Atom` menu button, then half way down there is a button that says `Install Shell Commands` - click on this and the shell commands will install (you might need to enter your laptop admin password).
+Now open a freah terminal and try typing `atom` this time it should work
+
+**2) How to open atom in a conda instance in Windows**
 
 To open Atom in a specific conda enviroment on a windows machine - go to your menu and select the anaconda prompt - in the anaconda prompt activate the conda encironment that you want using `conda activate obds-py3`
 
 then type `atom` to open your atom instance 
-**2) the platformio ide does not pick up my conda python - its picking up the system python**
+
+**3) the platformio ide does not pick up my conda python - its picking up the system python**
 See fix here ->https://stackoverflow.com/questions/43207427/using-anaconda-environment-in-atom find 
 
 In summary:
@@ -123,13 +127,19 @@ change to `default` to:
 https://stackoverflow.com/questions/43207427/using-anaconda-environment-in-atom
 
 
-**3) even if i'm not in the obds conda env when i run a script in python using the `script` package its running in the obds env**
+**4) even if i'm not in the obds conda env when i run a script in python using the `script` package its running in the obds env**
 
 Check you have opened atom from the command line in the right environment
 
-**4)I cannot see the big buttons at the top of the tool bar**
+**5)I cannot see the big buttons at the top of the tool bar**
  
 Make sure you have both the `tool-bar` and the `tool-bar-atom` packages installed in atom
+
+**6) Set up atom with git 
+
+- If you have file thats already in a git repository, click on it to open, then click on the github icon at the bottom of the `atom` window
+- In the github pane you will see a 'log in to GitHub' panel, click on the `login` button
+- this tells you you need to enter a token - click on the `github.atom.io/login` link to generate a token - it takens you to a browser page where you might need to put in yur github password and user name, once you've done this it should display a token that you can copy to your clipboard and then paste in the box in the atom github pane that says `Enter your token` - paste your token and click `login` - you atom is now linked to github for this repository 
 
 
 # Notes: 
