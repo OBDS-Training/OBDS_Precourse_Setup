@@ -27,7 +27,7 @@ We like [Atom](https://atom.io/) as it is simple to get started with, while it a
 
 ## Installing Atom on your own computer
 
-- You can find the full install instructions in the [Installing Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/) section of the <https://atom.io/> website.
+You can find the full install instructions in the [Installing Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/) section of the <https://atom.io/> website.
 
 **Note**: If you already have Atom installed, you don't need to reinstall it.
 That said, consider following the instruction in the [Updating Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/#updating-atom) section.
