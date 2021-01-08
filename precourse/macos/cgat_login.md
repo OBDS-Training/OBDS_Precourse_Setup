@@ -1,7 +1,7 @@
 # Logging into the CGAT Cluster
 
 
-You will receive a username and password for the CGAT high performance compute cluster by email. To access the cluster you must be on the University of Oxford network or VPN. Please open a terminal (MacOS Terminal or [Git bash](git_setup.md)) and type:
+You will receive a username and password for the CGAT high performance compute cluster by email. To access the cluster you must be on the University of Oxford network or VPN. Please open a terminal (MacOS Terminal) and type:
 
 `ssh <username>@cgatui.imm.ox.ac.uk`
 
