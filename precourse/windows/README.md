@@ -15,3 +15,5 @@ There are several pieces of software that you will need to install on your local
 - R and RStudio
     + The last three weeks of the course focus on the R statistical programming language.
     + We would like you to install up to date versions of both [R and the RStudio development environment](r_setup_windows.md) on your local computer.
+
+[Next](filezilla_instructions.pdf)
