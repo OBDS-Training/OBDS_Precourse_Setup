@@ -4,7 +4,7 @@ There are several pieces of software that you will need to install on your local
 
 - Text Editor
     + We will use several different text editors to write code during the course.
-    + While some will be installed during the course <a href="https://atom.io/" target="_blank">Atom</a> can be [installed and configured](atom_installation_instructions.md) in advance.
+    + While some will be installed during the course Atom can be [installed and configured](atom_installation_instructions.md) in advance.
 - Linux command line
     + We will need a local Linux terminal for remote connection to Linux servers
     + Installing [Git](git_setup.md) will install a local Linux terminal and the Git version control software at the same time. We will use both on the course.
