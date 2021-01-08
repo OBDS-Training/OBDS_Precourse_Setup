@@ -1,23 +1,28 @@
 # Setting up Atom
 
-This file explains how to install the text editor `Atom` and some add-on packages to atom that we will use during the course, and generally make life easier for daily bioinformatics work.
+This page explains how to install the text editor `Atom` and some add-on packages to atom that we will use during the course, and generally make life easier for daily bioinformatics work.
 
 ## Text editors - what they are and why we need them
 
 Text editors are computer programs that allow you to write and edit simple text files without the additional text formatting that programs like [Microsoft Word](https://www.microsoft.com/en-gb/microsoft-365/word) and [Microsoft Excel](https://www.microsoft.com/en-gb/microsoft-365/excel) add to a document.
-For instance, [Microsoft Notepad](https://www.microsoft.com/en-us/p/notepad-for-windows-10/9nblggh4w20k) is an example of a basic text editor you might have come across on Microsoft Windows.
+For instance, [Notepad](https://www.microsoft.com/en-us/p/notepad-for-windows-10/9nblggh4w20k) is an example of a basic text editor you might have come across on Microsoft Windows.
 
 Basic text is important as it allows us to write files that can be easily interpreted by the computer and executed as code to perform computational tasks.
-Text files are also much easier to share, as they do not require any proprietary program to open and edit them.
+Text files are also easy to share, as they do not require any proprietary program to open and edit them.
 
 ## Why we chose Atom
 
 There are many different text editors available and many people have their own personal favourite that they tend to use.
-For example you might have come across [GNU Emacs](https://www.gnu.org/software/emacs/), [Vim](https://www.vim.org/), [Sublime Text](https://www.sublimetext.com/), [nedit](https://sourceforge.net/projects/nedit/), [gedit](https://wiki.gnome.org/Apps/Gedit), or [GNU nano](https://www.nano-editor.org/).
-It's very much a matter of personal preference as to which one you choose, some are very basic and easy to use like [GNU nano](https://www.nano-editor.org/) and [gedit](https://wiki.gnome.org/Apps/Gedit), whilst others like [GNU Emacs](https://www.gnu.org/software/emacs/) and [Vim](https://www.vim.org/) offer more advanced functionality which comes at the cost of a steeper learning curve.
-For instance, some editors are customizable, with lots of additional functionality that can make writing code faster once you get to grips with their keyboard shortcuts and syntax.
+For example you might have come across some of these editors...
+- [GNU Emacs](https://www.gnu.org/software/emacs/)
+- [Vim](https://www.vim.org/)
+- [GNU nano](https://www.nano-editor.org/)
+- [Sublime Text](https://www.sublimetext.com/)
+- [nedit](https://sourceforge.net/projects/nedit/)
+- [gedit](https://wiki.gnome.org/Apps/Gedit)
+It's very much a matter of personal preference as to which one you choose, some are very basic and easy to use like [GNU nano](https://www.nano-editor.org/) and [gedit](https://wiki.gnome.org/Apps/Gedit), whilst others like [GNU Emacs](https://www.gnu.org/software/emacs/) and [Vim](https://www.vim.org/) offer more advanced functionality which comes at the cost of a steeper learning curve.For instance, some editors are customizable, with lots of additional functionality that can make writing code faster once you get to grips with their keyboard shortcuts and syntax.
 
-We like [Atom](https://atom.io/) as it is simple to get started with, while it also has a lot of nice add-on packages that make life a whole lot easier (e.g. it integrates with GitHub seamlessly, it can edit files remotely on a server, and it can run R and Python code interactively in the same session).
+We like [Atom](https://atom.io/) as it is simple to get started with, while it also has a lot of nice add-on packages that make life a whole lot easier (e.g. it integrates with GitHub seamlessly and it can edit files remotely on a server).
 
 ## Installing Atom on your own computer
 
@@ -28,8 +33,8 @@ That said, consider following the instruction in the [Updating Atom](https://fli
 
 ## Launching Atom and getting started
 
-- Once installed you should be able to open Atom like you would any other normal software on your computer (From the `Applications` folder for Mac, from the `Start menu` for Windows )
-- See Atom documentation for [getting started](https://flight-manual.atom.io/getting-started/sections/atom-basics/): This has a brief guide on [Changing the theme](https://flight-manual.atom.io/getting-started/sections/atom-basics/#changing-the-theme) settings to make the Atom window look pretty.
+Once installed you should be able to open Atom like you would any other normal software on your computer (From the `Applications` folder for Mac, from the `Start menu` for Windows).
+See Atom documentation for [getting started](https://flight-manual.atom.io/getting-started/sections/atom-basics/). This has a brief guide on [Changing the theme](https://flight-manual.atom.io/getting-started/sections/atom-basics/#changing-the-theme) settings to make the Atom window look pretty.
 Don't worry too much about this, but one thing we do want to set is the 'soft tab' option and 'tab length':
     1) Open Atom
     2) Get to the settings pane. It might immediately open as a tab in the editor window when you launch Atom, but if not you can open it by navigating the Atom menu to either `File/Settings` if you are using Windows or `Atom/Preferences` if you are using Mac.
@@ -42,8 +47,7 @@ Don't worry too much about this, but one thing we do want to set is the 'soft ta
 
 ## Adding Packages to Atom to add functionality
 
-- Now that we have a fully functioning version of Atom, we can add additional packages to make our lives easier for working on code on the server.
-  There are loads of packages that you could add on to your copy of the Atom program, but those below are particularly useful to have installed and we will go through in more detail on the course.
+Now that we have a fully functioning version of Atom, we can add additional packages to make our lives easier for working on code on the server. There are loads of packages that you could add on to your copy of the Atom program, but those below are particularly useful to have installed and we will go through in more detail on the course.
 
     - [ftp-remote-edit](https://atom.io/packages/ftp-remote-edit): This is a package that allows you to read and write files on a remote server.
       We will use this package to read and write files on the CGAT server.
@@ -66,9 +70,6 @@ Don't worry too much about this, but one thing we do want to set is the 'soft ta
 5) Click the `Install` button for the correct package.
    Atom should take care of the installation of these add-ons but you might need to restart Atom after installing packages to get them to work properly.
 
-
--------------------------
-This should be enough to enable us to get started on the course but if you are interested in customising your Atom instance even further you can look and find other packages that you might want to try out here: <https://atom.io/packages>.
 We will go through how to use these add-ons and Atom itself during the course, so don't worry if it's all a bit confusing at this point.
 
 Great! Hopefully the above will have gone well, however if there are any installation difficulties please let your OBDS trainers know and they can help you figure things out.
