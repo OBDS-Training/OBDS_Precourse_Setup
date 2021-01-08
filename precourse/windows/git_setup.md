@@ -14,3 +14,5 @@ The git source control manager software for windows comes with a linux terminal 
   - Type `git`
 
   This should display a message indicating the main `git` subcommands.
+
+[Next](cgat_login.md)
