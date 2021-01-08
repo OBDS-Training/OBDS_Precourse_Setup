@@ -74,3 +74,5 @@ Now that we have a fully functioning version of Atom, we can add additional pack
 We will go through how to use these add-ons and Atom itself during the course, so don't worry if it's all a bit confusing at this point.
 
 Great! Hopefully the above will have gone well, however if there are any installation difficulties please let your OBDS trainers know and they can help you figure things out.
+
+[Next](git_setup.md)
