@@ -7,8 +7,8 @@ You might already have some of these installed, so only install those that you d
 
 ## Pre-course Setup
 
-- [MacOS](precourse/macos/macos_precourse_setup.md)
-- [Windows 10](precourse/windows/windows_precourse_setup.md)
+- [MacOS](precourse/macos/README.md)
+- [Windows 10](precourse/windows/README.md)
 
 ### User accounts
 
