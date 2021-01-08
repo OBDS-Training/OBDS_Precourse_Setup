@@ -22,7 +22,7 @@ You can close this application.
 
 This should launch the application `RStudio`, and the prompt should display a launch message indicating that it is using R version 4.0.3.
 
-## Managing multiple version of R
+## Managing multiple versions of R
 
 We ask that you use R version 4.0.3 for this course.
 Installing R 4.0.3 will not delete the other version(s) of R installed on you computer.
@@ -38,23 +38,6 @@ It is possible to switch between multiple versions of R.
 - Restart `RStudio` when prompted.
 
 This should relaunch `RStudio`, and the prompt should display a launch message indicating that it is using R version 4.0.3.
-
-## Git integration with RStudio
-
-After following the instructions for [Setting up git](git_setup.md) and [Creating an SSH key pair](create_ssh_keypair.md), check that RStudio detects your `git` installation and your private SSH key.
-This will let you manage `git` repositories directly within `RStudio`.
-
-- Launch `RStudio`.
-- In the RStudio menu, click on `Tools`.
-- Click on `Global Options...`.
-- In the `Git/SVN` panel:
-  + The `Git executable:` field should indicate the path to the `git` executable, e.g.
-    * `C:\Program Files\Git\bin\git.exe` on Windows.
-  + The `SSH RSA key:` field should indicate the path to your private SSH key, e.g.
-    * `C:\Users\Username\.ssh\id_rsa` on Windows.
-
-Any field that displays `(Not found)` means that `RStudio` did not detect a working installation at any of the standard locations on your system.
-Either relaunch `RStudio`, or try repeating the relevant instructions for [Setting up git](git_setup.md) or [Creating an SSH key pair](create_ssh_keypair.md), and relaunch `RStudio` again to apply the changes.
 
 ## Installing Rtools
 
