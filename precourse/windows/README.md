@@ -1,5 +1,3 @@
-[Home](/README.md) / Wndows 10 Setup
-
 # Windows 10 Setup
 
 ### Software
