@@ -8,7 +8,7 @@ There are several pieces of software that you will need to install on your local
 - Linux command line
     + We will need a local Linux terminal for remote connection to Linux servers
     + Installing [Git](git_setup.md) will install a local Linux terminal and the Git version control software at the same time. We will use both on the course.
-    + Once installed you can use Git Bash to log in into the CGAT cluster using [SSH](cgat_login.md)
+    + Once installed you can use Git Bash to log in into the [CGAT cluster](cgat_login.md)
 - File transfer
     + We can use an FTP (File Transfer Protocol) client to connect to remote servers to transfer files.
     + There are many free FTP clients. For the OBDS course we recommend [FileZilla](filezilla_instructions.pdf).
