@@ -20,6 +20,7 @@ For example you might have come across some of these editors...
 - [Sublime Text](https://www.sublimetext.com/)
 - [nedit](https://sourceforge.net/projects/nedit/)
 - [gedit](https://wiki.gnome.org/Apps/Gedit)
+
 It's very much a matter of personal preference as to which one you choose, some are very basic and easy to use like [GNU nano](https://www.nano-editor.org/) and [gedit](https://wiki.gnome.org/Apps/Gedit), whilst others like [GNU Emacs](https://www.gnu.org/software/emacs/) and [Vim](https://www.vim.org/) offer more advanced functionality which comes at the cost of a steeper learning curve.For instance, some editors are customizable, with lots of additional functionality that can make writing code faster once you get to grips with their keyboard shortcuts and syntax.
 
 We like [Atom](https://atom.io/) as it is simple to get started with, while it also has a lot of nice add-on packages that make life a whole lot easier (e.g. it integrates with GitHub seamlessly and it can edit files remotely on a server).
