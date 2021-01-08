@@ -7,17 +7,16 @@ You might already have some of these installed, so only install those that you d
 
 ## Pre-course Setup
 
-- [MacOS](macos_precourse_setup.md)
-- [Windows 10](windows_precourse_setup.md)
+- [MacOS](precourse/macos/macos_precourse_setup.md)
+- [Windows 10](precourse/windows/windows_precourse_setup.md)
 
 ### User accounts
 
-- [Github account](create_github_account.md)
+- [Github account](accounts/create_github_account.md)
 
 ## During the Course
 
 ### Secure Authentication
 
-- [SSH key pair](create_ssh_keypair.md)
-- [SSH configuration](ssh_config.md)
-
+- [SSH key pair](incourse/create_ssh_keypair.md)
+- [SSH configuration](incourse/ssh_config.md)
