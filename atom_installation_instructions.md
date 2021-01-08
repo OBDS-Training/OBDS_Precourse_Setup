@@ -35,35 +35,33 @@ That said, consider following the instruction in the [Updating Atom](https://fli
 ## Launching Atom and getting started
 
 Once installed you should be able to open Atom like you would any other normal software on your computer (From the `Applications` folder for Mac, from the `Start menu` for Windows).
-See Atom documentation for [getting started](https://flight-manual.atom.io/getting-started/sections/atom-basics/). This has a brief guide on [Changing the theme](https://flight-manual.atom.io/getting-started/sections/atom-basics/#changing-the-theme) settings to make the Atom window look pretty.
-Don't worry too much about this, but one thing we do want to set is the 'soft tab' option and 'tab length':
 
-    1) Open Atom
-    2) Get to the settings pane. It might immediately open as a tab in the editor window when you launch Atom, but if not you can open it by navigating the Atom menu to either `File/Settings` if you are using Windows or `Atom/Preferences` if you are using Mac.
-    3) In the Atom `Settings` pane, on the left handside there should be a tab called `Editor`. Click on the `Editor` Tab and scroll down to the `Soft Tabs` option.
-    4) Click so `Soft Tabs` has a 'tick' next to the `Soft Tabs` option.
-    5) Scroll down a couple of boxes further to `Tab length` and set this to `4` if it's not already.
-       We do this because some programming languages do not like a mix of tabs and spaces when you are writing code.
-       This option means that when you type the 'tab' key on your keyboard 4 space characters will be inserted rather then a tabulation character.
-       This keeps things consistent in your script and will save you some debugging hassle later.
+See Atom documentation for [getting started](https://flight-manual.atom.io/getting-started/sections/atom-basics/). This has a brief guide on [Changing the theme](https://flight-manual.atom.io/getting-started/sections/atom-basics/#changing-the-theme) settings to make the Atom window look pretty.
+
+One important thing to configure is to set is the 'soft tab' option and set 'tab length' to 4. We do this because some programming languages do not like a mix of tabs and spaces when you are writing code. This option means that when you type the 'tab' key on your keyboard 4 space characters will be inserted rather then a tabulation character. This keeps things consistent in your script and will save you some debugging hassle later. 
+
+1) Open Atom
+2) Get to the settings pane. It might immediately open as a tab in the editor window when you launch Atom, but if not you can open it by navigating the Atom menu to either `File/Settings` if you are using Windows or `Atom/Preferences` if you are using Mac.
+3) In the Atom `Settings` pane, on the left handside there should be a tab called `Editor`. Click on the `Editor` Tab and scroll down to the `Soft Tabs` option.
+4) Click so `Soft Tabs` has a 'tick' next to the `Soft Tabs` option.
+5) Scroll down a couple of boxes further to `Tab length` and set this to `4` if it's not already.
+       
 
 
 ## Adding Packages to Atom to add functionality
 
 Now that we have a fully functioning version of Atom, we can add additional packages to make our lives easier for working on code on the server. There are loads of packages that you could add on to your copy of the Atom program, but those below are particularly useful to have installed and we will go through in more detail on the course.
 
-    - [ftp-remote-edit](https://atom.io/packages/ftp-remote-edit): This is a package that allows you to read and write files on a remote server.
-      We will use this package to read and write files on the CGAT server.
-    - [platformio-IDE-terminal](https://atom.io/packages/platformio-ide-terminal): This package allows you to run a terminal from Atom.
-      We will use this package to log onto the server and run our code in the terminal on the server.
-    - [teletype](https://atom.io/packages/teletype): Allows you to collaborate in real time on the same document with other users.
-    - [script](https://atom.io/packages/script): Enables you to run python scripts in Atom.
-    - [tool-bar](https://atom.io/packages/tool-bar): Adds a customisable tool bar.
-    - [tool-bar-atom](https://atom.io/packages/tool-bar-atom): Adds a tool bar for common atom shortcuts (based on tool-bar).
-    - [python-debugger](https://atom.io/packages/python-debugger): A tool for debugging Python code.
-    - [python-autopep8](https://atom.io/packages/python-autopep8): A tool for formatting Python code.
-    - [ide-python](https://atom.io/packages/ide-python): A suite of tools for adding syntax checking and code auto-completion for Python code.
-    - [atom-ide-ui](https://atom.io/packages/atom-ide-ui): Additions to te Atom user interface for linters and debuggers.
+- [ftp-remote-edit](https://atom.io/packages/ftp-remote-edit): This is a package that allows you to read and write files on a remote server. We will use this package to read and write files on the CGAT server.
+- [platformio-IDE-terminal](https://atom.io/packages/platformio-ide-terminal): This package allows you to run a terminal from Atom. We will use this package to log onto the server and run our code in the terminal on the server.
+- [teletype](https://atom.io/packages/teletype): Allows you to collaborate in real time on the same document with other users.
+- [script](https://atom.io/packages/script): Enables you to run python scripts in Atom.
+- [tool-bar](https://atom.io/packages/tool-bar): Adds a customisable tool bar.
+- [tool-bar-atom](https://atom.io/packages/tool-bar-atom): Adds a tool bar for common atom shortcuts (based on tool-bar).
+- [python-debugger](https://atom.io/packages/python-debugger): A tool for debugging Python code.
+- [python-autopep8](https://atom.io/packages/python-autopep8): A tool for formatting Python code.
+- [ide-python](https://atom.io/packages/ide-python): A suite of tools for adding syntax checking and code auto-completion for Python code.
+- [atom-ide-ui](https://atom.io/packages/atom-ide-ui): Additions to te Atom user interface for linters and debuggers.
     
 1) To install the above packages navigate to the Atom settings pane, like we did above.
 2) On the left of the settings window click the `Install` tab.
