@@ -29,4 +29,4 @@ You can test your git installation as follows:
 - In a Terminal, type `git`.
 - This should display a message indicating the main `git` subcommands.
 
-[Next](r_setup_macos.md)
+[Next](filezilla.md)
