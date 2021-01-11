@@ -31,3 +31,29 @@ With those, it will be possible for you to use the key pair for logging into rem
 
 - The high performance computing cluster that we use for this course
 - GitHub
+
+# Adding an SSH Key to a remote server
+
+- ssh-copy-id installs an SSH key on a server as an authorized key.
+- `ssh-copy-id -i ~/.ssh/id_rsa <username>@cgatui.imm.ox.ac.uk`
+- This logs into the server host, copies the key to the server, and configures it to grant access by adding them to the servers ~/.ssh/authorized_keys file. 
+- This command will ask for your password for the server.
+- Only the public key is copied to the server. The private key should never be copied to another machine.
+
+## Testing the key
+
+- `ssh -i ~/.ssh/id_rsa <username>@cgatui.imm.ox.ac.uk`
+- The login should now complete without asking for a password. 
+- Note, that the command might ask for the passphrase you specified for the key.
+
+# Adding an SSH Key to your local SSH agent
+
+We can stop the key from asking for it's password every time by adding the key to a local ssh agent.
+
+- First we must start a local ssh agent
+  + `eval \`ssh-agent -s\``
+- Next we add the key to the agent
+  + `ssh-add`
+  + You will be propmted for your ssh key password
+- Now that the ssh key is added to the agent we should not be prompted for the passward again
+  + `ssh -i ~/.ssh/id_rsa <username>@cgatui.imm.ox.ac.uk`
