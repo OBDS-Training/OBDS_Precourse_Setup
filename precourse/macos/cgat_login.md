@@ -24,3 +24,5 @@ When you first log in you will find yourself in your home directory `/ifs/home/<
 During the course we will work in the OBDS-training directory. You can change to this directory / folder using the change directory command:
 
 `cd /ifs/obds-training/jan21/<username>/`
+
+[Next](xcode_setup.md)
