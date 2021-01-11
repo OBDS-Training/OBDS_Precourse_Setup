@@ -25,4 +25,4 @@ During the course we will work in the OBDS-training directory. You can change to
 
 `cd /ifs/obds-training/jan21/<username>/`
 
-[Next](filezilla_instructions.pdf)
+[Next](filezilla.md)
