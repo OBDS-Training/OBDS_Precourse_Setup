@@ -2,7 +2,7 @@
 
 Some of the software packages that we will use during the course (e.g. git) require software development utilities that can be obtained by installing the _Command Line Tools_ for XCode.
 
-_Note: this is only a pre-requisite for MacOS users. If you are not a MacOS user, please ignore this.
+_Note: this is only a pre-requisite for MacOS users. If you are not a MacOS user, please ignore this._
 
 ## Instructions
 
