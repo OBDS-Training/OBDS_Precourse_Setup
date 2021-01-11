@@ -51,7 +51,7 @@ With those, it will be possible for you to use the key pair for logging into rem
 We can stop the key from asking for it's password every time by adding the key to a local ssh agent.
 
 - First we must start a local ssh agent
-  + `eval \`ssh-agent -s\``
+  + ``eval `ssh-agent -s` ``
 - Next we add the key to the agent
   + `ssh-add`
   + You will be propmted for your ssh key password
