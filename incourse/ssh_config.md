@@ -1,8 +1,7 @@
 # Configuring SSH Shortcuts
 
-Before you proceed, please make sure you have completed all the instructions for [Creating an SSH key pair](create_ssh_keypair.md) and have the Atom text editor installed and configured.
 
-Here, we configure a set of SSH profiles that allow you to connect more rapidly to the CGAT cluster.
+Here, we configure a set of SSH profiles that allow you to connect more rapidly to the CGAT cluster. Before you proceed, please make sure you have completed all the instructions for [Creating an SSH key pair](create_ssh_keypair.md).
 
 ## Windows 10
 
