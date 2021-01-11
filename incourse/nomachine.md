@@ -9,7 +9,7 @@ NoMachine NX software provides a remote desktop on the HPC cluster enabling you 
 4. Click `New` to start a new connection
 5. Select `SSH` as the protocol
 
-![SSH protocol](img/nomachine_ssh.png)
+![SSH protocol](/img/nomachine_ssh.png)
 
 6. Type `localhost` for the Host and `2222` for the Port
 
