@@ -26,3 +26,5 @@ FileZilla is a program used to copy files between a local computer and a remote 
   - Open the Launchpad, it should include the icon 'FileZilla'; click on it.
   - The first time that you launch FileZilla, you may be presented with a MacOS security warning asking you whether you want to open this application downloaded from the web; click on the button 'Open'.
   - This should then present you with the application main window. Success!
+
+[Next](r_setup_windows.md)
