@@ -16,3 +16,5 @@
 
 - The `XQuartz` program should appear in the Launchpad.
 - Launching the `XQuartz` (e.g. from the Launchpad) should open a Terminal with title `xterm`.
+
+[Next](r_setup_macos.md)
