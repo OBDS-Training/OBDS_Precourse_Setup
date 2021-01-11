@@ -15,7 +15,7 @@ If you already have some of those software on your computer, do make sure those 
     + To install Git on MacOS please install [XCode](xcode_setup.md)
 - File transfer
     + We can use an FTP (File Transfer Protocol) client to connect to remote servers to transfer files.
-    + There are many free FTP clients. For the OBDS course we recommend [FileZilla](filezilla_instructions.pdf)
+    + There are many free FTP clients. For the OBDS course we recommend [FileZilla](filezilla.md)
 - X Window System
     + We will use the [XQuartz](xquartz.md) application.
 - R and RStudio
