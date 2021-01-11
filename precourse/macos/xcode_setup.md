@@ -12,7 +12,7 @@ _Note: this is only a pre-requisite for MacOS users. If you are not a MacOS user
 - This will install Xcode on your machine.
 - In your `Applications` folder, launch `Xcode`. You may see the following window:
 
-<img src="img/xcode_additional_components.png" alt="Install addditional required components?"></img>
+<img src="/img/xcode_additional_components.png" alt="Install addditional required components?"></img>
 
 - If this is the case:
     + Click `Install`
@@ -20,7 +20,7 @@ _Note: this is only a pre-requisite for MacOS users. If you are not a MacOS user
 
 - Once the installation is complete, the `Xcode` welcome screen will appear.
 
-<img src="img/xcode_welcome_screen.png" alt="Xcode welcome screen"></img>
+<img src="/img/xcode_welcome_screen.png" alt="Xcode welcome screen"></img>
 
 - You can simply close it; everything is ready.
 
