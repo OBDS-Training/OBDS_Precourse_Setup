@@ -41,7 +41,7 @@ This should relaunch `RStudio`, and the prompt should display a launch message i
 
 ## Installing Rtools
 
-You may see the following warning message when installing R packages on Windows.
+You will need to install the Rtools package to install some R packages during the course. If you do not you may see the following warning message when installing R packages on Windows.
 
 ```r
 WARNING: Rtools is required to build R packages, but is not currently installed.
