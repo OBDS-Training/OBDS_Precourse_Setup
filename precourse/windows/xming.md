@@ -13,7 +13,7 @@ XMing is an X window system that allows you display graphical output from a remo
 - Copy the following line to export the display parameter (we will explain this during the course)
   + export DISPLAY=localhost:0
 - Connect to the CGAT cluster head node using X forwarding
-  + ssh -XY <username>@cgatui.imm.ox.ac.uk
+  + ssh -XY username@cgatui.imm.ox.ac.uk
   + ssh -XY cgath2
 - Type xeyes on the terminal. This should display a pair of eyes that follow your mouse around the screen.
 
