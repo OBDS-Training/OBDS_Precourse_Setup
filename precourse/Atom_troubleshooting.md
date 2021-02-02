@@ -141,6 +141,24 @@ Make sure you have both the `tool-bar` and the `tool-bar-atom` packages installe
 - In the github pane you will see a 'log in to GitHub' panel, click on the `login` button
 - this tells you you need to enter a token - click on the `github.atom.io/login` link to generate a token - it takens you to a browser page where you might need to put in yur github password and user name, once you've done this it should display a token that you can copy to your clipboard and then paste in the box in the atom github pane that says `Enter your token` - paste your token and click `login` - you atom is now linked to github for this repository 
 
+**7) Can't remember by ftp-remote-edit password 
+
+- go to file/config (mac) or edit/Config (ubuntu) - this will open up for .atom/config.cson file in atom (you might want to make a copy just incase you breaksomething) 
+- delete the section relating to ftp-remote-edit and save e.g. 
+
+```
+  "ftp-remote-edit":
+    config: "cdd0c9280bf92f67da37af1f0aba0821ad118cf8740169a88a868ed07a0fc"
+    password: "fb97c97475f236c"
+
+```
+- restart atom - note you will need to set up your remote server details again  
+
+**8) Change windows terminal to git bash within platformio-ide terminal 
+
+        --> file -> settings -> packages -> type in platformio-ide-terminal
+        --> go to settings of the package -> core section -> in shell override enter path to gitbash
+        e.g. C:\Program Files\Git\bin\bash.exe
 
 # Notes: 
 
