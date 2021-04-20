@@ -1,4 +1,4 @@
-# Mac Laptop Setup
+# MacOS Setup
 
 You will need to install several pieces of software on your computer (i.e. laptop or desktop) for use during the course.
 Please follow the instructions below to install and test those pieces of software before the start of the course.
