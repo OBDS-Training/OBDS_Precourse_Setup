@@ -23,9 +23,9 @@ We ask that you install and configure the following progams in advance, followin
 The high-performance computing (HPC) cluster that we use for the course
 can only be accessed from the University VPN.
 
-We ask that you install and configure the following programs in advance, following the instrutions linked:
-
-- [Cisco AnyConnect VPN client](items/vpn.md)
+Please the University of Oxford IT services website for details of how to configure VPN access:
+- https://help.it.ox.ac.uk/vpn
+- We recommend using the built-in VPN client on MacOS. Instruction for setup can be found under `Set up an alternative VPN client` section.
 
 ## Linux command line
 
