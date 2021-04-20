@@ -20,13 +20,13 @@ Briefly, once you have installed the Microsoft Remote Desktop client:
 
 <img src="img/remote-desktop-add-pc.png">
 
-- In `PC name:`, type `cbrglogin1.molbiol.ox.ac.uk`.
+- In `PC name:`, type `cbrglogin2.molbiol.ox.ac.uk`.
 
 <img src="img/remote-desktop-add-user.png">
 
 - In `User account:`, select `Add User Account...`.
   + In `Username`, type the account username that you were given for the CCB server.
-  + In `Username`, type your account password for the CCB server.
+  + In `Password`, type your account password for the CCB server.
   + In `Friendly name:`, optionally type something memorable (e.g., "CCB server OBDS account").
 
 <img src="img/remote-desktop-user-account.png">
