@@ -24,4 +24,4 @@ FileZilla is a program used to copy files between a local computer and a remote 
   - Open the Start Menu, it should include the Folder 'FileZilla FTP Client'; click on it and then click the FileZilla icon within to launch the software.
   - This should present you with the application main window. Success!
 
-[Next](xming.md)
+
