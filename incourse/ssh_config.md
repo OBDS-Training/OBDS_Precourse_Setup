@@ -1,14 +1,14 @@
 # Configuring SSH Shortcuts
 
 
-Here, we configure a set of SSH profiles that allow you to connect more rapidly to the CGAT cluster. Before you proceed, please make sure you have completed all the instructions for [Creating an SSH key pair](create_ssh_keypair.md).
+Here, we configure a set of SSH profiles that allow you to connect more rapidly to the CCB cluster. Before you proceed, please make sure you have completed all the instructions for [Creating an SSH key pair](create_ssh_keypair.md).
 
 ## Windows 10
 
 - Navigate to your home directory and enter the `.ssh` folder
 - Create or open a file called `config` (without any extension!) in the `.ssh` folder using a text editor
 - Add the following lines to the file.
-  + N.B. Replace all occurences of `username` with yout CGAT cluster username
+  + N.B. Replace all occurences of `<username>` with yout CCB cluster username
 ```
 Host *
     IdentityFile ~\.ssh\id_rsa
