@@ -1,4 +1,4 @@
-# Setting up Atom
+# Atom setup
 
 This page explains how to install the text editor `Atom` and some add-on packages to atom that we will use during the course to make life easier for daily bioinformatics work.
 
