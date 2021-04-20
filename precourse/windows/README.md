@@ -7,7 +7,7 @@ There are several pieces of software that you will need to install on your local
     + While some will be installed during the course Atom can be [installed and configured](atom_installation_instructions.md) in advance.
 - Linux command line
     + We will need a local Linux terminal for remote connection to Linux servers
-    + Installing [Git](git_setup.md) will install a local Linux terminal and the Git version control software at the same time. We will use both on the course.
+    + Installing [Git](git_setup.md) will install a local Linux terminal (Git bash) and the Git version control software at the same time. 
     + Once installed you can use Git Bash to log in into the [CCB cluster](ccb_login.md)
 - Microsoft Remote Desktop (RDP)
 - File transfer
