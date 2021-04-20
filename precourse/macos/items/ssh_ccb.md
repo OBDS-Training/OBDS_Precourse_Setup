@@ -1,4 +1,4 @@
-# Log in the CCB cluster
+# Logging in to the CCB cluster
 
 The Center for Computational Biology (CCB)
 at the MRC Weatherall Institute of Molecular Medicine (WIMM)
