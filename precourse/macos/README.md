@@ -16,7 +16,7 @@ Some of them will be installed interactively during the course.
 
 We ask that you install and configure the following progams in advance, following the instructions linked:
 
-- [Atom](atom_setup.md)
+- [Atom](items/atom.md)
 
 ## Virtual Private Network (VPN)
 
@@ -25,7 +25,7 @@ can only be accessed from the University VPN.
 
 We ask that you install and configure the following programs in advance, following the instrutions linked:
 
-- [Cisco AnyConnect VPN client](vpn_setup.md)
+- [Cisco AnyConnect VPN client](vpn.md)
 
 ## Linux command line
 
@@ -34,7 +34,7 @@ MacOS is unix-based and includes a builtin `Terminal` app.
 
 We ask that you follow the instructions linked below to test your setup.
 
-- [CCB login](ccb_login.md)
+- [CCB login](items/ccb_login.md)
 
 
 ## Microsoft Remote Desktop
@@ -43,7 +43,7 @@ We will use the Microsoft Remote Desktop program to open a remote desktop sessio
 
 We ask that you follow the instructions linked below to install the program and test your setup.
 
-- [Microsoft Remote Desktop](microsoft_remote_desktop.md)
+- [Microsoft Remote Desktop](items/microsoft_remote_desktop.md)
 
 ## File transfer
 
@@ -52,5 +52,5 @@ There are many free FTP clients that you could choose from.
 
 We ask that you install and configure the following programs in advance, following the instrutions linked:
 
-- [FileZilla](filezilla.md)
+- [FileZilla](items/filezilla_setup.md)
 
