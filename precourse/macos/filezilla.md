@@ -1,6 +1,6 @@
 # Installation of FileZilla
 
-FileZilla is a program used to copy files between a local computer and a remote server.
+`FileZilla` is a program used to copy files between a local computer and a remote server.
 
 ## Downloading Filezilla for your system
 
@@ -40,4 +40,7 @@ This will finally download a compressed archive file - with a `.tar.bz2` extensi
 
   - Open the `Launchpad`, it should include the icon `FileZilla`; click on it.
   - The first time that you launch `FileZilla`, you may be presented with a MacOS security warning asking you whether you want to open this application downloaded from the web; click on the button 'Open'.
-  - This should then present you with the application main window. Success!
+
+This should then present you with the application main window.
+
+Success!

@@ -28,7 +28,7 @@ We ask that you install and configure the following programs in advance, followi
 
 ## Linux command line
 
-We will need a local Linux terminal to connect to the remote Linux server for the course.
+We will need a local Linux terminal to connect to the remote Linux server that we use for the course.
 MacOS is unix-based and includes a builtin `Terminal` app.
 
 We ask that you follow the instructions linked below to test your setup.
@@ -38,6 +38,11 @@ We ask that you follow the instructions linked below to test your setup.
 
 ## Microsoft Remote Desktop
 
+We will use the Microsoft Remote Desktop program to open a remote desktop session on the remote Linux server that we use for the course.
+
+We ask that you follow the instructions linked below to install the program and test your setup.
+
+- [Microsoft Remote Desktop](microsoft_remote_desktop.md)
 
 ## File transfer
 
