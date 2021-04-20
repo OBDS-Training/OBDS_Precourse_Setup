@@ -12,3 +12,5 @@ you will need to download it from the [Software downloads page](https://register
 
 Then, connect to the MSD IT Services VPN following the instructions on this page:
 <https://www.medsci.ox.ac.uk/divisional-services/support-services-1/information-technology/document-and-file-storage/vpn>
+
+[Next](ssh_ccb.md)

@@ -49,3 +49,5 @@ at which point the client should launch a full screen window
 that presents you with a remote desktop session on the remote server.
 
 Success!
+
+[Next](filezilla.md)
