@@ -56,4 +56,4 @@ We will go through how to use these add-ons and Atom itself during the course, s
 
 Great! Hopefully the above will have gone well, however if there are any installation difficulties please let your OBDS trainers know and they can help you figure things out.
 
-[Next](cgat_login.md)
+[Next](ssh_ccb.md)
