@@ -6,7 +6,8 @@ Please follow the instructions below to install and test those pieces of softwar
 If you already have some of those pieces of software on your computer, do make sure those are up-to-date and match stated version requirements, if any.
 
 If you run into any issue while following the instructions below,
-please save any error message or screen capture 
+please save any error message or screen capture,
+and send it to us along with a description of what you have done before the error occured.
 
 ## Text Editors
 
