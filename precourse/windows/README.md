@@ -5,6 +5,9 @@ There are several pieces of software that you will need to install on your local
 - Text Editor
     + We will use several different text editors to write code during the course.
     + While some will be installed during the course Atom can be [installed and configured](atom_installation_instructions.md) in advance.
+- VPN
+    + The high-performance computing (HPC) cluster that we use for the course can only be accessed from the University VPN.
+    + Please the University of Oxford IT services website for details of how to configure VPN access: https://help.it.ox.ac.uk/vpn
 - Linux command line
     + We will need a local Linux terminal for remote connection to Linux servers
     + Installing [Git](git_setup.md) will install a local Linux terminal (Git bash) and the Git version control software at the same time. 
