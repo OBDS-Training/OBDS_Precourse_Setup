@@ -1,16 +1,32 @@
 # Mac Laptop Setup
 
-There are several pieces of software that you will need to install on your local computer (laptop / desktop) for use during the OBDS course.
-Please install and test these using the instructions below before the start of the course.
-If you already have some of those software on your computer, do make sure those are up-to-date versions; otherwise please install the required version, if applicable.
+You will need to install several pieces of software on your computer (i.e. laptop or desktop) for use during the course.
+Please follow the instructions below to install and test those pieces of software before the start of the course.
 
-- Text Editor
-    + We will use several different text editors to write code during the course.
-    + While some will be installed during the course Atom can be [installed and configured](atom_installation_instructions.md) in advance
-- Linux command line
-    + We will need a local Linux terminal for remote connection to Linux servers
-    + MacOS is unix-based and includes a builtin Terminal app.
-    + You can use terminal to log in into the CCB cluster using [SSH](ccb_login.md)
+If you already have some of those pieces of software on your computer, do make sure those are up-to-date and match stated version requirements, if any.
+
+If you run into any issue while following the instructions below,
+please save any error message or screen capture 
+
+## Text Editors
+
+We will use several different text editors to write code during the course.
+Some of them will be installed interactively during the course.
+
+We ask that you install and configure the list of progams below in advance, following the instructions linked:
+
+- [Atom](atom_setup.md)
+
+## Linux command line
+
+We will need a local Linux terminal to connect to the remote Linux server for the course.
+MacOS is unix-based and includes a builtin `Terminal` app.
+
+We ask that you follow the instructions linked below to test your setup.
+
+- [CCB login](ccb_login.md)
+
+
 - Microsoft Remote Desktop
 - File transfer
     + We can use an FTP (File Transfer Protocol) client to connect to remote servers to transfer files.
