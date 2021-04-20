@@ -17,7 +17,7 @@ and you will each be sent your login information, including:
 
 To log into the cluster:
 
-- Connect to the [MSDIT VPN](vpn_setup.md).
+- Connect to the University VPN.
 - Open the `Terminal` application on your computer.
 - Type the following, replacing `<username>` by your own username (without the `<>` symbols).
 
