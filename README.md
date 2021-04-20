@@ -7,6 +7,8 @@ You might already have some of these installed, so please check that you have an
 
 ## Pre-course Setup
 
+### Software
+
 - [MacOS](precourse/macos/README.md)
 - [Windows 10](precourse/windows/README.md)
 
