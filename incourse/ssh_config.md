@@ -23,9 +23,9 @@ Host *
     ForwardAgent yes
     Compression yes
 
-Host h2
-    Hostname cgath2
-    ProxyCommand ssh -XY <username>@cgatui.imm.ox.ac.uk nc %h %p
+Host ccb2
+    Hostname cbrglogin2
+    ProxyCommand ssh <username>@cbrglogin2.molbiol.ox.ac.uk nc %h %p
 ```
 - Save the file (make sure that editor did not add any extension, the file name should be exactly `config`)
 
@@ -51,14 +51,14 @@ Host *
     AddKeysToAgent yes
     UseKeychain yes
 
-Host h2
-    Hostname cgath2
-    ProxyCommand ssh -XY <username>@cgatui.imm.ox.ac.uk nc %h %p
+Host ccb2
+    Hostname cbrglogin2
+    ProxyCommand ssh <username>@cbrglogin2.molbiol.ox.ac.uk nc %h %p
 ```
 
 ## Test your configuration
 
 - Make sure you are connected to the University VPN.
 - Open a terminal
-- Type `ssh h2`. 
-- You should log into the cluster and the prompt should start with `[username@cgath2 ~]$`. Disconnect.
+- Type `ssh ccb2`. 
+- You should log into the cluster and the prompt should start with `[username@cbrglogin2 ~]$`. Disconnect.
