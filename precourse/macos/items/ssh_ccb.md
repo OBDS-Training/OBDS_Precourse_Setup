@@ -6,7 +6,7 @@ hosts a high-performance computing (HPC) cluster
 that is available to all members of the University of Oxford
 for scientific computing.
 
-[Read more](https://www.imm.ox.ac.uk/research/units-and-centres/mrc-wimm-centre-for-computational-biology/ccb-account).
+You can [read more](https://www.imm.ox.ac.uk/research/units-and-centres/mrc-wimm-centre-for-computational-biology/ccb-account) on the institute's website.
 
 Before the start of the course,
 an account will be created for each of you,
