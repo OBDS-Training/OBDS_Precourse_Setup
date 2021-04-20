@@ -8,7 +8,7 @@ for scientific computing.
 
 You can [read more](https://www.imm.ox.ac.uk/research/units-and-centres/mrc-wimm-centre-for-computational-biology/ccb-account) on the institute's website.
 
-Before the start of the course, you must register for an account if you do not already have one. Please visit https://www.imm.ox.ac.uk/research/units-and-centres/mrc-wimm-centre-for-computational-biology/ccb-account/request-an-account then click on 'Apply for a full account' under the OBDS section and fillin the online form. Once your account has been created you will receive login credentials (a username and password). 
+Before the start of the course, you must register for an account if you do not already have one. Please visit https://www.imm.ox.ac.uk/research/units-and-centres/mrc-wimm-centre-for-computational-biology/ccb-account/request-an-account then click on 'Apply for a full account' under the OBDS section and fill in the online form. Once your account has been created you will receive login credentials (a username and password). 
 
 To log into the CCB HPC cluster:
 
