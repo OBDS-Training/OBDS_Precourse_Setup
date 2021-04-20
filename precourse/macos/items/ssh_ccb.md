@@ -8,24 +8,19 @@ for scientific computing.
 
 You can [read more](https://www.imm.ox.ac.uk/research/units-and-centres/mrc-wimm-centre-for-computational-biology/ccb-account) on the institute's website.
 
-Before the start of the course,
-an account will be created for each of you,
-and you will each be sent your login information, including:
+Before the start of the course, you must register for an account if you do not already have one. Please visit https://www.imm.ox.ac.uk/research/units-and-centres/mrc-wimm-centre-for-computational-biology/ccb-account/request-an-account then click on 'Apply for a full account' under the OBDS section and fillin the online form. Once your account has been created you will receive login credentials (a username and password). 
 
-- a username
-- a password
-
-To log into the cluster:
+To log into the CCB HPC cluster:
 
 - Connect to the University VPN.
 - Open the `Terminal` application on your computer.
 - Type the following, replacing `<username>` by your own username (without the `<>` symbols).
 
 ```
-ssh <username>@cbrglogin1.molbiol.ox.ac.uk
+ssh <username>@cbrglogin2.molbiol.ox.ac.uk
 ```
 
-- When prompted for your password, type it and press the Return key on your keyboard.
+- When prompted for your password, type it and press the `Return` key on your keyboard.
 
 > For security reasons, when you type your password, the characters will not be displayed in the Terminal.
 > This is normal.
