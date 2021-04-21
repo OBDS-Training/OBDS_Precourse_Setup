@@ -16,9 +16,12 @@ Some of them will be installed interactively during the course.
 
 We ask that you install and configure the following progams in advance, following the instructions linked:
 
+- [Atom](items/atom.md)
+
 - VPN
     + The high-performance computing (HPC) cluster that we use for the course can only be accessed from the University VPN.
     + Please the University of Oxford IT services website for details of how to configure VPN access: https://help.it.ox.ac.uk/vpn
+
 - Linux command line
     + We will need a local Linux terminal for remote connection to Linux servers
     + Installing [Git](git_setup.md) will install a local Linux terminal (Git bash) and the Git version control software at the same time. 
