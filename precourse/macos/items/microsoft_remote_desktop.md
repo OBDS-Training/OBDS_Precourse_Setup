@@ -16,7 +16,8 @@ Briefly, once you have installed the Microsoft Remote Desktop client:
 <img src="img/launchpad-microsoft-remote-desktop.png">
 
 - Click the icon to launch the application.
-- In the menu bar, click `Connections`, then `Add PC`.
+- In the menu bar at the top of your screen, click `Connections`, then `Add PC`.
+  + Alternatively, in the application window, click of `+` then `Add PC` (screenshot below).
 
 <img src="img/remote-desktop-add-pc.png">
 
@@ -29,7 +30,7 @@ Briefly, once you have installed the Microsoft Remote Desktop client:
   + In `Password`, type your account password for the CCB server.
   + In `Friendly name:`, optionally type something memorable (e.g., "CCB server OBDS account").
 
-<img src="img/remote-desktop-user-account.png">
+<img src="img/remote-desktop-user-configuration.png">
 
 - In `Friendly name:`, optionally type something memorable (e.g., "CCB server login node").
 
