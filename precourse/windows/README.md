@@ -18,9 +18,14 @@ We ask that you install and configure the following progams in advance, followin
 
 - [Atom](items/atom.md)
 
-- VPN
-    + The high-performance computing (HPC) cluster that we use for the course can only be accessed from the University VPN.
-    + Please the University of Oxford IT services website for details of how to configure VPN access: https://help.it.ox.ac.uk/vpn
+## Virtual Private Network (VPN)
+
+The high-performance computing (HPC) cluster that we use for the course
+can only be accessed from the University VPN.
+
+We ask that you install and configure the following programs in advance, following the instrutions linked:
+
+- [VPN client](items/vpn.md)
 
 - Linux command line
     + We will need a local Linux terminal for remote connection to Linux servers
