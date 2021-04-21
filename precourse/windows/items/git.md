@@ -1,4 +1,4 @@
-# Installing git on Windows 10
+# Git setup
 
 The git source control manager software for windows comes with a Linux terminal called `git bash`. The instructions below will install git and git bash:
 

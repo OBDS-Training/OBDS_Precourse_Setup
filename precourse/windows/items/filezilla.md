@@ -1,4 +1,4 @@
-# Installation of FileZilla
+# FileZilla setup
 
 `FileZilla` is a program used to copy files between a local computer and a remote server.
 

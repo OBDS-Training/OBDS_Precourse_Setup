@@ -1,4 +1,4 @@
-# Microsoft Remote Desktop
+# Microsoft Remote Desktop setup
 
 We will use this program to open a virtual desktop
 on the remote server that we use for this course.
