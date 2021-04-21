@@ -16,7 +16,7 @@ Some of them will be installed interactively during the course.
 
 We ask that you install and configure the following progams in advance, following the instructions linked:
 
-- [Atom setup](items/atom.md)
+- [Atom](items/atom.md)
 
 ## Virtual Private Network (VPN)
 
@@ -25,7 +25,7 @@ can only be accessed from the University VPN.
 
 We ask that you install and configure the following programs in advance, following the instrutions linked:
 
-- [VPN client setup](items/vpn.md)
+- [VPN client](items/vpn.md)
 
 ## Linux command line
 
@@ -34,11 +34,17 @@ The `Git` software includes a Linux terminal (Git bash) alongside its version co
 
 We ask that you follow the instructions linked below to install software and test your setup.
 
-- [Git setup](items/git.md)
+- [Git](items/git.md)
 - [CCB login](items/ssh_ccb.md)
 
-- Microsoft Remote Desktop (RDP)
-    + We will use [RDP](microsoft_remote_desktop.md) for remote graphical access to the CCB cluster.
+## Microsoft Remote Desktop
+
+We will use the Microsoft Remote Desktop program to open a remote desktop session on the remote Linux server that we use for the course.
+
+We ask that you follow the instructions linked below to install the program and test your setup.
+
+- [Microsoft Remote Desktop](items/microsoft_remote_desktop.md)
+
 - File transfer
     + We can use an FTP (File Transfer Protocol) client to connect to remote servers to transfer files.
     + There are many free FTP clients. For the OBDS course we recommend [FileZilla](filezilla.md).
