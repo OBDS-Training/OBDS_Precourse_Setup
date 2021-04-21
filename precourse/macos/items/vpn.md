@@ -7,10 +7,13 @@ The University provides comprehensive instructions to install and configure
 the Cisco AnyConnect VPN client on this page:
 <https://help.it.ox.ac.uk/vpn>.
 
-In particular, if you do not have the VPN client installed on your computer yet,
-you will need to download it from the [Software downloads page](https://register.it.ox.ac.uk/self/software).
+We recommend that you use the built-in VPN client on MacOS, following instructions in the following sections:
 
-Then, connect to the MSD IT Services VPN following the instructions on this page:
-<https://www.medsci.ox.ac.uk/divisional-services/support-services-1/information-technology/document-and-file-storage/vpn>
+- `VPN requirements`
+- `Setup an alternate VPN client`
+
+Alternatively, you may use the Cisco AnyConnect VPN Client, in which case you should follow instructions in the following section instead:
+
+- `Setup the Cisco AnyConnect VPN Client`
 
 [Next](ssh_ccb.md)

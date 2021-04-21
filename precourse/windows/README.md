@@ -1,10 +1,21 @@
 # Windows 10 Setup
 
-There are several pieces of software that you will need to install on your local computer (laptop / desktop) for use during the OBDS course. Please install and test these using the instructions below before the start of the course.
+You will need to install several pieces of software on your computer (i.e. laptop or desktop) for use during the course.
+Please follow the instructions below to install and test those pieces of software before the start of the course.
 
-- Text Editor
-    + We will use several different text editors to write code during the course.
-    + While some will be installed during the course Atom can be [installed and configured](atom_installation_instructions.md) in advance.
+If you already have some of those pieces of software on your computer, do make sure those are up-to-date and match stated version requirements, if any.
+
+If you run into any issue while following the instructions below,
+please save any error message or screen capture,
+and send it to us along with a description of what you have done before the error occured.
+
+## Text Editors
+
+We will use several different text editors to write code during the course.
+Some of them will be installed interactively during the course.
+
+We ask that you install and configure the following progams in advance, following the instructions linked:
+
 - VPN
     + The high-performance computing (HPC) cluster that we use for the course can only be accessed from the University VPN.
     + Please the University of Oxford IT services website for details of how to configure VPN access: https://help.it.ox.ac.uk/vpn
