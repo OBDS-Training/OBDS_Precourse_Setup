@@ -1,4 +1,4 @@
-# Connecting to the University Virtual Private Network (VPN)
+# Virtual Private Network (VPN) client setup
 
 Before you can access the remote server that we use for the course,
 you will need to connect to the University Virtual Private Network (VPN).

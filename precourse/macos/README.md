@@ -34,7 +34,7 @@ MacOS is unix-based and includes a builtin `Terminal` app.
 
 We ask that you follow the instructions linked below to test your setup.
 
-- [CCB login](items/ssh_ccb.md)
+- [CCB SSH login](items/ssh_ccb.md)
 
 ## Microsoft Remote Desktop
 
