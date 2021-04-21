@@ -45,6 +45,15 @@ We ask that you follow the instructions linked below to install the program and 
 
 - [Microsoft Remote Desktop](items/microsoft_remote_desktop.md)
 
+## File transfer
+
+We will use an FTP (File Transfer Protocol) client to transfer files to and from the remote server that we use for this course.
+There are many free FTP clients that you could choose from.
+
+We ask that you install and configure the following programs in advance, following the instrutions linked:
+
+- [FileZilla](items/filezilla.md)
+
 - File transfer
     + We can use an FTP (File Transfer Protocol) client to connect to remote servers to transfer files.
     + There are many free FTP clients. For the OBDS course we recommend [FileZilla](filezilla.md).
