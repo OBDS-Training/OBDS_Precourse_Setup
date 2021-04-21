@@ -36,7 +36,6 @@ We ask that you follow the instructions linked below to test your setup.
 
 - [CCB login](items/ssh_ccb.md)
 
-
 ## Microsoft Remote Desktop
 
 We will use the Microsoft Remote Desktop program to open a remote desktop session on the remote Linux server that we use for the course.
