@@ -25,7 +25,7 @@ can only be accessed from the University VPN.
 
 We ask that you install and configure the following programs in advance, following the instrutions linked:
 
-- [Cisco AnyConnect VPN client](items/vpn.md)
+- [VPN client](items/vpn.md)
 
 ## Linux command line
 
