@@ -16,7 +16,7 @@ Some of them will be installed interactively during the course.
 
 We ask that you install and configure the following progams in advance, following the instructions linked:
 
-- [Atom](items/atom.md)
+- [Atom setup](items/atom.md)
 
 ## Virtual Private Network (VPN)
 
@@ -25,12 +25,18 @@ can only be accessed from the University VPN.
 
 We ask that you install and configure the following programs in advance, following the instrutions linked:
 
-- [VPN client](items/vpn.md)
+- [VPN client setup](items/vpn.md)
 
-- Linux command line
-    + We will need a local Linux terminal for remote connection to Linux servers
-    + Installing [Git](git_setup.md) will install a local Linux terminal (Git bash) and the Git version control software at the same time. 
-    + Once installed you can use Git Bash to log in into the [CCB cluster](ccb_login.md)
+## Linux command line
+
+We will need a local Linux terminal to connect to the remote Linux server that we use for the course.
+The `Git` software includes a Linux terminal (Git bash) alongside its version control functionality.
+
+We ask that you follow the instructions linked below to install software and test your setup.
+
+- [Git setup](items/git.md)
+- [CCB login](items/ssh_ccb.md)
+
 - Microsoft Remote Desktop (RDP)
     + We will use [RDP](microsoft_remote_desktop.md) for remote graphical access to the CCB cluster.
 - File transfer

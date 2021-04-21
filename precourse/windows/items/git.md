@@ -14,4 +14,4 @@ You can test your installation as follows:
   - Type `git`
   - This should display a message indicating the main `git` subcommands.
 
-[Next](ccb_login.md)
+[Next](ssh_ccb.md)

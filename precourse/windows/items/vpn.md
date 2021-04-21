@@ -12,4 +12,4 @@ We recommend that you use the Cisco AnyConnect VPN Client, following instruction
 - `VPN requirements`
 - `Setup the Cisco AnyConnect VPN Client`
 
-[Next](ssh_ccb.md)
+[Next](git.md)
