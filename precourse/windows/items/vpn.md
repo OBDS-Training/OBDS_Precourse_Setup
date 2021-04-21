@@ -7,15 +7,10 @@ The University provides comprehensive instructions to install and configure
 the Cisco AnyConnect VPN client on this page:
 <https://help.it.ox.ac.uk/vpn>.
 
-We recommend that you use the built-in VPN client on MacOS,
+We recommend that you use the Cisco AnyConnect VPN Client,
 following instructions in the following sections of the link above:
 
 - `VPN requirements`
-- `Setup an alternate VPN client`
-
-Alternatively, you may use the Cisco AnyConnect VPN Client,
-in which case you should follow instructions in the following section instead:
-
 - `Setup the Cisco AnyConnect VPN Client`
 
-[Next](ssh_ccb.md)
+[Next](git.md)

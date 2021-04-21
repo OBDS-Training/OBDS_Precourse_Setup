@@ -24,23 +24,22 @@ The website should open a modal window asking you to select an edition of FileZi
 > Do not click on the button 'Select' in the column called 'FileZilla with manual'.
 > This will take you to FileZilla Pro, which is priced at £4.99.
 
-This will finally download a compressed archive file - with a `.tar.bz2` extension - to your computer.
+This will finally download a compressed archive file - with a `.exe` extension - to your computer.
 
 ## Filezilla installation
 
-- In `Finder`, go to the location of that file.
-- Double-click the file to decompress it.
-  This will generate a new executable file called 'FileZilla' in the same folder.
-- Move the file 'FileZilla' to your 'Applications' folder.
-  There are a couple of ways you can do this:
-  + In your `Finder` window, in the side bar, the section 'Favourites' should include a link to the 'Applications' folder. You can simply drag and drop the file on that shortcut.
-  + In your `Finder` window, in the side bar, the section 'Locations' should include a link 'Macintosh HD'; click on that link. The main panel should include the folder 'Applications'; drag and drop the file on that folder.
+- In Windows Explorer, navigate to the location of the downloaded file
+  (default location: Downloads folder).
+- Double-click the installer and follow the instructions.
+  Use the defaults for all options.
 
 ## Check your installation
 
-- Open the `Launchpad`, it should include the icon `FileZilla`; click on it.
-- The first time that you launch `FileZilla`, you may be presented with a MacOS security warning asking you whether you want to open this application downloaded from the web; click on the button 'Open'.
+- Open the Windows Start Menu, it should include the Folder 'FileZilla FTP Client'.
+  Click on it and then click the `FileZilla` icon within to launch the software.
 
-This should then present you with the application main window.
+This should present you with the application main window.
 
 Success!
+
+

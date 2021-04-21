@@ -23,9 +23,9 @@ We ask that you install and configure the following progams in advance, followin
 The high-performance computing (HPC) cluster that we use for the course
 can only be accessed from the University VPN.
 
-Please the University of Oxford IT services website for details of how to configure VPN access:
-- https://help.it.ox.ac.uk/vpn
-- We recommend using the built-in VPN client on MacOS. Instruction for setup can be found under `Set up an alternative VPN client` section.
+We ask that you install and configure the following programs in advance, following the instrutions linked:
+
+- [VPN client](items/vpn.md)
 
 ## Linux command line
 
@@ -34,8 +34,7 @@ MacOS is unix-based and includes a builtin `Terminal` app.
 
 We ask that you follow the instructions linked below to test your setup.
 
-- [CCB login](items/ssh_ccb.md)
-
+- [CCB SSH login](items/ssh_ccb.md)
 
 ## Microsoft Remote Desktop
 
@@ -52,5 +51,5 @@ There are many free FTP clients that you could choose from.
 
 We ask that you install and configure the following programs in advance, following the instrutions linked:
 
-- [FileZilla](items/filezilla_setup.md)
+- [FileZilla](items/filezilla.md)
 

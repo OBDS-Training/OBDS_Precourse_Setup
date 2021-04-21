@@ -1,4 +1,4 @@
-# Logging in to the CCB cluster
+# Secure Shell Protocol (SSH) setup
 
 The Center for Computational Biology (CCB)
 at the MRC Weatherall Institute of Molecular Medicine (WIMM)
