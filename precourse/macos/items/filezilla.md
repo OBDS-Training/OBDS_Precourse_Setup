@@ -38,8 +38,8 @@ This will finally download a compressed archive file - with a `.tar.bz2` extensi
 
 ## Check your installation
 
-  - Open the `Launchpad`, it should include the icon `FileZilla`; click on it.
-  - The first time that you launch `FileZilla`, you may be presented with a MacOS security warning asking you whether you want to open this application downloaded from the web; click on the button 'Open'.
+- Open the `Launchpad`, it should include the icon `FileZilla`; click on it.
+- The first time that you launch `FileZilla`, you may be presented with a MacOS security warning asking you whether you want to open this application downloaded from the web; click on the button 'Open'.
 
 This should then present you with the application main window.
 
