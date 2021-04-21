@@ -35,7 +35,7 @@ The `Git` software includes a Linux terminal (Git bash) alongside its version co
 We ask that you follow the instructions linked below to install software and test your setup.
 
 - [Git](items/git.md)
-- [CCB login](items/ssh_ccb.md)
+- [CCB SSH login](items/ssh_ccb.md)
 
 ## Microsoft Remote Desktop
 
