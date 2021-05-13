@@ -101,7 +101,7 @@ change to `default` to:
           title: 'Auto Run Command'
           description: 'Command to run on terminal initialization.'
           type: 'string'
-          default: 'export PATH=~/miniconda/envs/general/bin:/Users/charlie/miniconda/condabin:$PATH && conda activate base && conda activate general'
+          default: 'export PATH=~/miniconda/envs/general/bin:/Users/charlie/miniconda/condabin:$PATH && conda activate base'
 ```
 **Note that you need to export the path AND activate conda for the correct python to be picked up!**
 https://stackoverflow.com/questions/43207427/using-anaconda-environment-in-atom
