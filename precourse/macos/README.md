@@ -55,7 +55,9 @@ We ask that you install and configure the following programs in advance, followi
 
 ## R
 
-We will use a local installation of the R software environment and the RStudio IDE, as an alternative to the RStudio Server installation that is available on the high-performance computing (HPC) cluster that we use for the course.
+We will use a local installation of the `R` software environment and the `RStudio` IDE, as an alternative to the RStudio Server installation that is available on the high-performance computing (HPC) cluster that we use for the course.
+
+The `gfortran` compiler will be required to install certain packages that must be compiled from source.
 
 We ask that you install and configure the following programs in advance, following the instrutions linked:
 
@@ -63,6 +65,6 @@ We ask that you install and configure the following programs in advance, followi
 - [RStudio Desktop](items/rstudio_desktop.md)
 - [gfortran](items/gfortran.md)
 
-Optionally, you can install the RSwitch program to switch the active version of R on your system between the version that we use for this course and any other version of R that you may have installed in the past or install in the future.
+Optionally, you can install the RSwitch program to switch the active version of R on your system between the version that we use for this course and any other version of R that you may have installed in the past or will install in the future.
 
 - [RSwitch](items/rswitch.md)
