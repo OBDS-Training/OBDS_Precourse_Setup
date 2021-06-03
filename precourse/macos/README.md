@@ -53,3 +53,15 @@ We ask that you install and configure the following programs in advance, followi
 
 - [FileZilla](items/filezilla.md)
 
+## R
+
+We will use a local installation of the R software environment and the RStudio IDE, as an alternative to the RStudio Server installation that is available on the high-performance computing (HPC) cluster that we use for the course.
+
+We ask that you install and configure the following programs in advance, following the instrutions linked:
+
+- [R](items/r.md)
+- [RStudio Desktop](items/rstudio_desktop.md)
+
+Optionally, you can install the RSwitch program to switch the active version of R on your system between the version that we use for this course and any other version of R that you may have installed in the past or install in the future.
+
+- [RSwitch](items/rswitch.md)
