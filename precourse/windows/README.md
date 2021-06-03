@@ -53,3 +53,19 @@ There are many free FTP clients that you could choose from.
 We ask that you install and configure the following programs in advance, following the instrutions linked:
 
 - [FileZilla](items/filezilla.md)
+
+## R
+
+We will use a local installation of the R software environment and the RStudio IDE, as an alternative to the RStudio Server installation that is available on the high-performance computing (HPC) cluster that we use for the course.
+
+The `Rtools` toolchain will be required to install certain packages that must be compiled from source.
+
+We ask that you install and configure the following programs in advance, following the instrutions linked:
+
+- [R](items/r.md)
+- [RStudio Desktop](items/rstudio_desktop.md)
+- [Rtools](items/rtools.md)
+
+We provide some instructions to switch the active version of R on your system between the version that we use for this course and any other version of R that you may have installed in the past or will install in the future.
+
+- [Managing multiple versions of R on Windows 10](items/r_versions.md)
