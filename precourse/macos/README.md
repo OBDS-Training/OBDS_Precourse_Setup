@@ -61,6 +61,7 @@ We ask that you install and configure the following programs in advance, followi
 
 - [R](items/r.md)
 - [RStudio Desktop](items/rstudio_desktop.md)
+- [gfortran](items/gfortran.md)
 
 Optionally, you can install the RSwitch program to switch the active version of R on your system between the version that we use for this course and any other version of R that you may have installed in the past or install in the future.
 
