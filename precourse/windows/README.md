@@ -9,14 +9,6 @@ If you run into any issue while following the instructions below,
 please save any error message or screen capture,
 and send it to us along with a description of what you have done before the error occured.
 
-## Text Editors
-
-We will use several different text editors to write code during the course.
-Some of them will be installed interactively during the course.
-
-We ask that you install and configure the following progams in advance, following the instructions linked:
-
-- [Atom](items/atom.md)
 
 ## Virtual Private Network (VPN)
 
