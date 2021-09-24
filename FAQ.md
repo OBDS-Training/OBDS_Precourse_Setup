@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-## (macOS)
+## (macOS) Cannot open ".pkg" file
 
 **Issue**
 
