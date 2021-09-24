@@ -25,4 +25,5 @@ You might already have some of these installed, so please check that you have an
 
 ## FAQ
 
-Frequently asked questions are answered [here](FAQ.md).
+If you run into issues, you may find the solution in our [frequently asked questions](FAQ.md).
+Otherwise, do contact us!
