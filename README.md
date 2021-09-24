@@ -22,3 +22,7 @@ You might already have some of these installed, so please check that you have an
 
 - [SSH key pair](incourse/create_ssh_keypair.md)
 - [SSH configuration](incourse/ssh_config.md)
+
+## FAQ
+
+Frequently asked questions are answered [here](FAQ.md).
