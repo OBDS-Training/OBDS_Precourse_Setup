@@ -22,12 +22,24 @@ ssh <username>@cbrglogin2.molbiol.ox.ac.uk
 
 - When prompted for your password, type it and press the `Return` key on your keyboard.
 
-> For security reasons, when you type your password, the characters will not be displayed in the Terminal.
-> This is normal.
->
-> Tip:
->
-> If you are worried about mistyping your password,
-> Open a text editor, type your password there, then cut and paste it in the Terminal application.
+<details>
+  <summary>When I type my password, why do characters not appear in the terminal?</summary>
+  <b>Reason:</b>
+  <p>
+    For security reasons, when you type your password, the characters will not be displayed in the Terminal.
+    This is normal, so that anyone looking over your shoulder while you type your password cannot read it.
+  </p>
+  <p>
+    <b>Solutions:</b>
+    <ul>
+      <li>Option 1: If you are confident, type your password directly in the Terminal and press Enter when you are done.</li>
+      <li>Option 2: If you are worried about mistyping your password, type you password in a text editor, then cut and paste it into the Terminal and press Enter.</li>
+    </ul>
+    <b>Tips:</b>
+    <ul>
+      <li>If you typed directly in the Terminal and you think you have made a mistake, keep the Delete key pressed for a few seconds, to delete everything you typed so far, and type your whole password from the start again.</li>
+    </ul>
+  </p>
+</details>
 
 [Next](microsoft_remote_desktop.md)
