@@ -23,7 +23,7 @@ ssh <username>@cbrglogin2.molbiol.ox.ac.uk
 - When prompted for your password, type it and press the `Return` key on your keyboard.
 
 <details>
-  <summary>When I type my password, why do characters not appear in the terminal?</summary>
+  <summary><b>FAQ:</b> When I type my password, why do characters not appear in the terminal?</summary>
   <b>Reason:</b>
   <p>
     For security reasons, when you type your password, the characters will not be displayed in the Terminal.
