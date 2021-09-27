@@ -1,5 +1,9 @@
 # Frequently Asked Questions
 
+## Table of contents
+
+- [(macOS) Cannot open ".pkg" file](#macos-cannot-open-pkg-file)
+
 ## (macOS) Cannot open ".pkg" file
 
 **Issue**
