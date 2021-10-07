@@ -2,7 +2,7 @@
 
 - In your web browser, navigate to <https://cran.r-project.org/bin/macosx/base/>.
 
-- Click on `R-4.0.3.pkg`.
+- Click on `R-4.1.0.pkg`.
 
 - Click on the downloaded file to run the installer.
 
@@ -17,6 +17,6 @@ Alternatively, you can type `R.version` in the console, and you should see
 ```r
 ...
 major          4
-minor          0.3
+minor          1.0
 ...
 ```
