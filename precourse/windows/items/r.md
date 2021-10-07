@@ -2,7 +2,7 @@
 
 - In your web browser, navigate to <https://cran.r-project.org/bin/windows/base/old/>
 
-- Click on `R 4.0.3` (October, 2020).
+- Click on `R 4.1.0` (October, 2020).
 
 - Run the installer.
 
