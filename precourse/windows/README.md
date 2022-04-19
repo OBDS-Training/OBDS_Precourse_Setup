@@ -29,13 +29,6 @@ We ask that you follow the instructions linked below to install software and tes
 - [Git](items/git.md)
 - [CCB SSH login](items/ssh_ccb.md)
 
-## Microsoft Remote Desktop
-
-We will use the Microsoft Remote Desktop program to open a remote desktop session on the remote Linux server that we use for the course.
-
-We ask that you follow the instructions linked below to install the program and test your setup.
-
-- [Microsoft Remote Desktop](items/microsoft_remote_desktop.md)
 
 ## File transfer
 
